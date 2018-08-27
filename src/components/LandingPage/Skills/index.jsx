@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 const secondSectionBackground = './hero-1.jpg';
 const ataRiskBackground = 'http://atariskstation.com/wp-content/uploads/2016/07/productheader.jpg';
-const ataRiskLogo = './ata-risk-logo.png';
+const ataRiskLogo = './ata-risk-logo-light-old.png';
 const secureLLCBackground = './secure-llc-background.png';
 const secureLLCLogo = './Secure-logo.png';
 const premierOutDoorLogo = './premier-outdoor-logo.png';
@@ -12,7 +12,7 @@ const premierOutDoorBackground = './premier-outdoor-background.jpg';
 
 const Skills = () => {
 	return (
-		<div>   
+		<div>
 			<div className="primaryHorizontal-cardsWrapper" id="mainContent" style={{ backgroundImage: `url(${ataRiskBackground})` }}>
 				{/* Change the background image */}
 				<div className="primaryHorizontal-wrapper primaryHorizontal-wrapper-first primaryHorizontal-wrapper-slash" id="parsable-card">
