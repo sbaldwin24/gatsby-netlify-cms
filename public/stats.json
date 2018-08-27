@@ -1,0 +1,140 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-companies-js": [
+      "component---src-pages-companies-js-edc7bd0efda67481020a.js",
+      "component---src-pages-companies-js-edc7bd0efda67481020a.js.map"
+    ],
+    "path---build-your-perceptron": [
+      "path---build-your-perceptron-c60cbf6bd600eb82143c.js",
+      "path---build-your-perceptron-c60cbf6bd600eb82143c.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e4e4959837524f19ebca.js",
+      "component---src-pages-index-js-e4e4959837524f19ebca.js.map"
+    ],
+    "path---companies": [
+      "path---companies-a0e39f21c11f6a62c5ab.js",
+      "path---companies-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog": [
+      "path---blog-60f6538d2c1c3c95c564.js",
+      "path---blog-60f6538d2c1c3c95c564.js.map"
+    ],
+    "path---hps-hackathon": [
+      "path---hps-hackathon-41e9dd740ba646f0426b.js",
+      "path---hps-hackathon-41e9dd740ba646f0426b.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-796cf419085fd3b3773e.js",
+      "component---src-pages-contact-js-796cf419085fd3b3773e.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-7387f5e56a6c9bca54b4.js",
+      "component---src-layouts-index-jsx-7387f5e56a6c9bca54b4.js.map"
+    ],
+    "path---never-work-for-free": [
+      "path---never-work-for-free-fa26589a450bf67da6af.js",
+      "path---never-work-for-free-fa26589a450bf67da6af.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---the-tech-tools-i-use": [
+      "path---the-tech-tools-i-use-7fa008091af0c53147a4.js",
+      "path---the-tech-tools-i-use-7fa008091af0c53147a4.js.map"
+    ],
+    "path---index": [
+      "path---index-f7e4b5da5c120afd0b0b.js",
+      "path---index-f7e4b5da5c120afd0b0b.js.map"
+    ],
+    "component---src-pages-founders-js": [
+      "component---src-pages-founders-js-72e242a7102d5789f5ff.js",
+      "component---src-pages-founders-js-72e242a7102d5789f5ff.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-5989a8b1cc7c51e0f83c.js",
+      "component---src-pages-404-js-5989a8b1cc7c51e0f83c.js.map"
+    ],
+    "commons": [
+      "commons-7ca3d1018a23763a313b.js",
+      "commons-7ca3d1018a23763a313b.js.map"
+    ],
+    "path---founders": [
+      "path---founders-a0e39f21c11f6a62c5ab.js",
+      "path---founders-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-f32128395fdcd6961ac8.js",
+      "component---src-templates-post-js-f32128395fdcd6961ac8.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-blog-js": [
+      "component---src-pages-blog-js-c9fe831e5dd7b3756374.js",
+      "component---src-pages-blog-js-c9fe831e5dd7b3756374.js.map"
+    ],
+    "path---we-are-truly-living-in-a-simulation": [
+      "path---we-are-truly-living-in-a-simulation-321c34d05058b1d56484.js",
+      "path---we-are-truly-living-in-a-simulation-321c34d05058b1d56484.js.map"
+    ],
+    "path---thanks": [
+      "path---thanks-a0e39f21c11f6a62c5ab.js",
+      "path---thanks-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about-me-so-far": [
+      "path---about-me-so-far-f55d6ab21a31ed45a925.js",
+      "path---about-me-so-far-f55d6ab21a31ed45a925.js.map"
+    ],
+    "app": [
+      "app-c126cf31c6052cfa3ddd.js",
+      "app-c126cf31c6052cfa3ddd.js.map"
+    ],
+    "path---istanbul-trip": [
+      "path---istanbul-trip-6466baabc721a08b7c46.js",
+      "path---istanbul-trip-6466baabc721a08b7c46.js.map"
+    ],
+    "path---unnamed": [
+      "path---unnamed-d65bdd9f48357dc4bf05.js",
+      "path---unnamed-d65bdd9f48357dc4bf05.js.map"
+    ],
+    "path---first-time-first-prize": [
+      "path---first-time-first-prize-0279e60a207c8861b6f9.js",
+      "path---first-time-first-prize-0279e60a207c8861b6f9.js.map"
+    ],
+    "component---src-pages-thanks-js": [
+      "component---src-pages-thanks-js-bfa295044df73e5a04b4.js",
+      "component---src-pages-thanks-js-bfa295044df73e5a04b4.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---from-failure-to-launch-hajj-hackathon": [
+      "path---from-failure-to-launch-hajj-hackathon-d1e71124e72180296ec6.js",
+      "path---from-failure-to-launch-hajj-hackathon-d1e71124e72180296ec6.js.map"
+    ],
+    "path---how-i-learned-design-and-dev": [
+      "path---how-i-learned-design-and-dev-2ea237c5d66223609f96.js",
+      "path---how-i-learned-design-and-dev-2ea237c5d66223609f96.js.map"
+    ],
+    "path---getting-my-first-job-offer": [
+      "path---getting-my-first-job-offer-ebe3c44da17114380b8d.js",
+      "path---getting-my-first-job-offer-ebe3c44da17114380b8d.js.map"
+    ]
+  }
+}

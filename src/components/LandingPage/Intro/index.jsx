@@ -2,11 +2,10 @@ import React from 'react';
 import Link from 'gatsby-link';
 import './styles.scss';
 
-
 const Intro = () => (
 	<header
 		className="intro intro-wrapper"
-		style={{ backgroundImage: "url('./hunt-1.jpg')" }}
+		style={{ backgroundImage: "url('./margaret-hunt-hill-bridge.jpg')" }}
 	>
 		<div className="intro-content">
 			<div className="container u-alignCenter--ipad">

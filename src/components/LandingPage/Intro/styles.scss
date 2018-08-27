@@ -1,22 +1,17 @@
-
-
 .intro {
 	position: relative;
 	background-position: 50%;
 	background-size: cover;
 	background-repeat: no-repeat;
-	max-width: 100%;
-
-	// min-height: 100%;
+	max-width: 100%; // min-height: 100%;
 	// display: flex;
 	// flex-wrap: wrap;
 	// align-items: flex-end;
 	// min-height: 100vh;
 	&-wrapper {
-    position: relative;
-		
+		position: relative;
 		&:before {
-			background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), #000);
+			background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, .9));
 			content: "";
 			position: absolute;
 			top: 0;
@@ -26,8 +21,6 @@
 			z-index: 2;
 		}
 	}
-
-
 	.intro-content {
 		padding: 3rem 1rem;
 		margin: 0 auto;
@@ -40,19 +33,17 @@
 			opacity: 0;
 			animation-name: fadein;
 			animation-fill-mode: forwards;
-			animation-duration: 2.5s!important;
-			animation-delay: 1.3s!important;
+			animation-duration: 2.5s !important;
+			animation-delay: 1.3s !important;
 			font-size: 7.188rem;
 			@media (max-width: 1080px) {
 				font-size: 4rem;
 			}
 		}
-		
 		p {
 			color: #fff;
 			margin-bottom: 2rem;
 		}
-
 	}
 }
 
@@ -63,9 +54,7 @@
 	width: 90%;
 }
 
-
 .magical-btn {
-
 	color: #fff;
 	text-decoration: none;
 	padding: .9rem 1.4rem;
@@ -73,8 +62,7 @@
 	border-radius: .3rem;
 	box-shadow: rgba(0, 196, 255, 0.9) 0px 13px 19px -6px;
 	transition: .5s;
-	&:hover  {
-
+	&:hover {
 		box-shadow: 0px 0px 17px 0px rgba(0, 196, 255, 0.36);
 		transition: .5s;
 	}

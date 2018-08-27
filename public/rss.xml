@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Caruth Capital Partners | Hello world!]]></title><description><![CDATA[A self-taught graphic, UI/UX designer & front end developer.]]></description><link>https://nostalgic-morse-7a6322.netlify.com</link><image><url>https://nostalgic-morse-7a6322.netlify.com/static/favicon/logo-512.png</url><title>Caruth Capital Partners | Hello world!</title><link>https://nostalgic-morse-7a6322.netlify.com</link></image><generator>CaruthCapital</generator><lastBuildDate>Mon, 27 Aug 2018 22:22:58 GMT</lastBuildDate><atom:link href="https://nostalgic-morse-7a6322.netlify.com//rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Sterling Baldwin]]></author><copyright><![CDATA[Sterling Baldwin © 2018]]></copyright><item><title><![CDATA[From failure to launch - Hajj Hackathon]]></title><description><![CDATA[While travelling to Rabat in order to visit the Moroccan office of the company I work for, I got invited to participate in Hajj hackathon…]]></description><guid isPermaLink="false">From failure to launch - Hajj Hackathon</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Mon, 06 Aug 2018 12:38:01 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/launch-b5f6fc813829531f7a356c0931983a15-c84dc.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 109.50342465753424%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABk372IHoqknEqC//EABkQAQADAQEAAAAAAAAAAAAAAAIAAQMTEf/aAAgBAQABBQIC1nwuJcrDzI7ZwjPWJ+TrncGmdH//xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAwEBPwEh/8QAFREBAQAAAAAAAAAAAAAAAAAAICH/2gAIAQIBAT8Bo//EAB0QAAICAgMBAAAAAAAAAAAAAAABAhExMhIhQaH/2gAIAQEABj8CvpWbfDjTkKPiMjkzRGphn//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQYGR4fD/2gAIAQEAAT8hMVuYW5hpPUErqcks08Fk/Um2WaHXEPb0+R2GdErR5E//2gAMAwEAAgADAAAAEKgoAv/EABcRAQEBAQAAAAAAAAAAAAAAABEAARD/2gAIAQMBAT8QJLTz/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxChFz//xAAfEAEAAgIBBQEAAAAAAAAAAAABABEhMUFRYbHR4fD/2gAIAQEAAT8QNIKn4U8GoABxdWeWYOoaq3xFIycjN3LfvHyF7h0B173As6tyU0jWE9TGAtf0z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Cleanify&quot;
+        title=&quot;Follow me on Instagram to see more : https://www.instagram.com/smakosh19&quot;
+        src=&quot;/static/launch-b5f6fc813829531f7a356c0931983a15-5025c.jpg&quot;
+        srcset=&quot;/static/launch-b5f6fc813829531f7a356c0931983a15-097a5.jpg 270w,
+/static/launch-b5f6fc813829531f7a356c0931983a15-d02ea.jpg 540w,
+/static/launch-b5f6fc813829531f7a356c0931983a15-5025c.jpg 1080w,
+/static/launch-b5f6fc813829531f7a356c0931983a15-c84dc.jpg 1168w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;While travelling to Rabat in order to visit the Moroccan office of the company I work for, I got invited to participate in Hajj hackathon which was looking for people who would like to solve some main problems related to &lt;a href=&quot;https://en.wikipedia.org/wiki/Hajj&quot;&gt;Hajj&lt;/a&gt;, especially these six topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Waste management&lt;/li&gt;
+&lt;li&gt;Food and beverage&lt;/li&gt;
+&lt;li&gt;Transportation&lt;/li&gt;
+&lt;li&gt;Crowd management and traffic control&lt;/li&gt;
+&lt;li&gt;Travel and accommodations arrangements&lt;/li&gt;
+&lt;li&gt;Public health&lt;/li&gt;
+&lt;li&gt;Housing&lt;/li&gt;
+&lt;li&gt;Communications solutions&lt;/li&gt;
+&lt;li&gt;Financial solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The hackathon’s organizers covered all our expenses including the flight (economy class at &lt;a href=&quot;https://www.saudia.com/?ref=https://smakosh.com&quot;&gt;Saudi airlines&lt;/a&gt;), it was so nice as they provided an awesome service, the hotel stay was also covered and each group was staying at different hotels, I was staying at Hotel &lt;a href=&quot;https://warwickhotels.com/salsabil/&quot;&gt;Salsabil&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I started coding the rest api as soon as I got in the plane, I used express js, mongoose, mongodb, postman and I was working offline, I set up my models (user, trashCan) and an authenticated middleware so not everyone could access some private routes, I forgot to add another middleware so only admin user can send requests to some trash can routes.&lt;/p&gt;
+&lt;p&gt;Once I arrived to the hotel, my friends were checking out the rooms as most are materialistic while I was just sitting on a couch at the reception setting up my react app, I used &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; boiler plate but as I usually do, I had to eject it to add sass, setup my react-router v4, the routes, private and public ones, structure of my project, reducers, actions and the redux store etc…&lt;/p&gt;
+&lt;p&gt;I didn’t sleep that night and the next day they took us to a stadium where we registered as participants, we got our badges and an idea about the program, then they carried us to where the event will be hosted.&lt;/p&gt;
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Well organized&lt;/li&gt;
+&lt;li&gt;They solved internet problems by providing ethernet cables to each table&lt;/li&gt;
+&lt;li&gt;Free food and drinks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lack of adapters&lt;/li&gt;
+&lt;li&gt;Rules of the hackathon haven’t been respected by the judges and the organizers as the winners didn’t have a working app.&lt;/li&gt;
+&lt;li&gt;They should have picked 9 winners as there were 9 problems to solve&lt;/li&gt;
+&lt;li&gt;Lack of designers and developers, I had to design, code and prepare the pitch alone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I couldn’t support the crowd and went back to my hotel room to finish the progressive web app and while I was taking a shower, I got more ideas of what I was willing to make which was to show nearby trash cans on a map to users, reward those who help improving the platform by reporting full trash cans. Workers (second type of user) get a notification when a single trash can gets a number of reports that is full, workers go to check with a trash vehicle, if true, all first reporters get points which they can use to get rewards, else, they get penalties.&lt;/p&gt;
+&lt;p&gt;The admin (third type of user) subscribes to a plan (basic or pro) to be able to manage the platform, admin is the one with the privileges to manage trash cans and workers. Users can also submit trash cans’ locations and nearby workers can confirm it.&lt;/p&gt;
+&lt;p&gt;The next day was the second day of the hackathon when &lt;a href=&quot;http://www.arabnews.com/node/1350066/saudi-arabia&quot;&gt;they successfully broke a Guiness world record for most prticipants in a hackathon with 2950 person&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I spent that day redesigning my progressive web app, making it more UX friendly, designed a simple logo and some avatars, prepared the presentation as well as my pitch, then I went to sleep in the hotel after 2 sleepless days.&lt;/p&gt;
+&lt;p&gt;I was looking for an adapter USB type C to HDMI during the last day of the hackathon but sadly one of the organizers told me that I won’t even make it to the finals so why asking for the adapter. I got mad and went back to my table over thinking why did he say that until I went into of the rooms to pitch then I understood that the whole event was just for the sake of the media, as no one was listening to my pitch nor paying attention to my demo.&lt;/p&gt;
+&lt;p&gt;During the last day of my stay in Jeddah, while walking near the red sea, I come up with better ideas, I wrote them down and started thinking critically and comparing my idea to other business models of successful startups and I could come up with a better idea that uses maps as well, a list of restaurant and cafes and the user can see each one’s menu, add to the cart what he/she would like to get, choose the table and time, then pay half the price. the restaurant/cafe gets a notification and prepare the meal to the guest. Free for users and restaurant/cafe owners, I take only a percentage of each transaction.&lt;/p&gt;
+&lt;p&gt;The issue with my idea is it requires a lot of money but I’ve decided to build a fully working app and seek investments from VCs or angel investors.&lt;/p&gt;
+&lt;p&gt;You can subscribe to the news letter down bellow to get early access to the app and latest posts delivered right to your inbox.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[We are truly living in a simulation]]></title><description><![CDATA[Not that kind of simulation you’ve seen on the matrix movie but a different one, keep on reading to understand more. The simulation I’m…]]></description><guid isPermaLink="false">We are truly living in a simulation</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Fri, 29 Jun 2018 12:06:01 GMT</pubDate><content:encoded>&lt;p&gt;Not that kind of simulation you’ve seen on the matrix movie but a different one, keep on reading to understand more.&lt;/p&gt;
+&lt;p&gt;The simulation I’m talking about is actually simulated by ourselves not by some highly intelligent being(s), each one of us including other living beings (nature, animals etc…) are influencing each other to a level where we’re responsible of others’ decisions &amp;#x26; their way of thinking.&lt;/p&gt;
+&lt;p&gt;Just go to your instagram feed to check what your friends are sharing, then compare their decisions of sharing those kind of posts to what they actually like (yeah you can see what your friends are liking &amp;#x26; following on Instagram, after clicking on the heart icon on the app, swipe right to see the left tab). You can even interact with them in real life &amp;#x26; be able to predict what they will talk about, their answers etc…&lt;/p&gt;
+&lt;p&gt;Don’t get depressed knowing that you are a variable on this huge network of influence but be optimistic because a variable does change &amp;#x26; can adapt to each environment it’s in, don’t live your whole life as a constant that never changes through time.&lt;/p&gt;
+&lt;p&gt;Now that you know about this simulation you’re part of, use it in your favor as a self aware being to take more control of your influencers, know with who you’re spending more time with, are they people with goals in mind, or are they some failures just playing around not caring about themselves neither others, keep doing daily or weekly reports of your decisions &amp;#x26; actions to adapt, evolve &amp;#x26; to finally change to a better person than you were yesterday.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The tech tools I use]]></title><description><![CDATA[TL;DR I use Javascript for everything :D So I thought about sharing the tools I personally use personally or at work, so let’s start with…]]></description><guid isPermaLink="false">The tech tools I use</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Tue, 27 Feb 2018 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/tech-84f598a3896d271a6bdbaab95494ff67-ab4eb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.54713114754098%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFFOfVNTCw//8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACEgMQESIx/9oACAEBAAEFAqR2kWrKZ0mVv//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFKkP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQACAwAAAAAAAAAAAAAAAAEAECFhof/aAAgBAQAGPwJ3MvbWv//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExUWH/2gAIAQEAAT8hc4cEcZlPoUobLwrjFwWj/9oADAMBAAIAAwAAABDY7//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxBFhCv/xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAECAQE/EHiVIf/EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/EDnlDTO8QUd6qJ8yARX3G27IZ7vHgGJPELM2Crn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tools&quot;
+        title=&quot;Taken from my Instagram&quot;
+        src=&quot;/static/tech-84f598a3896d271a6bdbaab95494ff67-5025c.jpg&quot;
+        srcset=&quot;/static/tech-84f598a3896d271a6bdbaab95494ff67-097a5.jpg 270w,
+/static/tech-84f598a3896d271a6bdbaab95494ff67-d02ea.jpg 540w,
+/static/tech-84f598a3896d271a6bdbaab95494ff67-5025c.jpg 1080w,
+/static/tech-84f598a3896d271a6bdbaab95494ff67-66465.jpg 1620w,
+/static/tech-84f598a3896d271a6bdbaab95494ff67-ab4eb.jpg 1952w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;TL;DR I use Javascript for everything :D&lt;/p&gt;
+&lt;p&gt;So I thought about sharing the tools I personally use personally or at work, so let’s start with the design tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adobe Illustrator for logos, icons, illustrations.&lt;/li&gt;
+&lt;li&gt;Adobe XD or Invision Studio for designing user interfaces &amp;#x26; wireframes.&lt;/li&gt;
+&lt;li&gt;Adobe Photoshop for editing pictures &amp;#x26; memes :D&lt;/li&gt;
+&lt;li&gt;Adobe After effects for editing videos (I recommend Adobe Premiere Pro for editing videos &amp;#x26; AE to add effects).&lt;/li&gt;
+&lt;li&gt;Dribble for inspiration and I share my work there as well as on Behance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s now get into the tools I use while coding:&lt;/p&gt;
+&lt;p&gt;I share my code &amp;#x26; look for inspirations on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github&lt;/li&gt;
+&lt;li&gt;Codepen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If I’m simply coding an interface that I’ll might integrate into an app (web or native) I use plain html/css &amp;#x26; vanilla js.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jekyll or Gatsby (I recommend Gatsby), I use Github to host the files and I deploy on Netlify.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For Css I’m cool to use what ever tech available out there that makes my task done quickly &amp;#x26; well, I have personally used Bootstrap 3 &amp;#x26; 4, Bulma, Lostgrid, Materliaze, Tachyons &amp;#x26; made my own little framework called Unnamed that has over 175 stars on Github, but I seriously prefer using cssGrid &amp;#x26; I always enjoy styling my elements from scratch since the components are fully reusable with react.&lt;/p&gt;
+&lt;p&gt;If I’m making a web app, for the front end I use the &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; boilerplate as it’s the official one from the team that made React Js but I always have to add react-router, Redux, Recompose &amp;#x26; many other modules I use the most.&lt;/p&gt;
+&lt;p&gt;I obviously use Git bash as my terminal when I’m on windows but I go with iTerm2 when I’m on macOS &amp;#x26; VScode as my code editor (material theme).&lt;/p&gt;
+&lt;p&gt;For the backend, I was using php/mysql but I didn’t personally like it and switched to node js and so I currently use Express Js/Mongoose and Mongodb as database to make Restful APIs which I deploy on Heroku.&lt;/p&gt;
+&lt;p&gt;Forgot to mention that I sometimes use Firebase when I’m too lazy to work on the backend.&lt;/p&gt;
+&lt;p&gt;For native apps, I use React native to build mobile apps (Ios &amp;#x26; Android).&lt;/p&gt;
+&lt;p&gt;For growth hacking, I focus more on building useful products that users really need in their lives then I simply share it on Product Hunt, Hacker news, Reddit and on social media.&lt;/p&gt;
+&lt;p&gt;I use Windows 10, MacOs Mojave, my MSI GP62 laptop, my macbook pro 2017 touchbar work laptop, Nexus 6p with a Dbrand wood skin. Full setup can be found &lt;a href=&quot;https://docs.google.com/document/d/1falYEEHhJxq4HIXwOPoc4lk0AYsfHY4U6ZCcY4Srs8g/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My trip to Istanbul & why I hate traveling]]></title><description><![CDATA[I wanted to visit Istanbul 3 years ago and even told my friends about it, but 2 years after that moment, I didn’t really want to travel…]]></description><guid isPermaLink="false">My trip to Istanbul &amp; why I hate traveling</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Mon, 25 Dec 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/flight-51d00c9f7ae97844492ca7737a6e139a-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABg611iZtD/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECBBQREv/aAAgBAQABBQJV2Z2Z2QscNTIz9r//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8BpT//xAAaEAABBQEAAAAAAAAAAAAAAAAAARARMTKh/9oACAEBAAY/Anoz0lD/xAAaEAACAwEBAAAAAAAAAAAAAAAAARFBYRBx/9oACAEBAAE/IWEZ8mrN9Jirb0//2gAMAwEAAgADAAAAEPAP/8QAFREBAQAAAAAAAAAAAAAAAAAAAHH/2gAIAQMBAT8Qtb//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAWFx/9oACAECAQE/EIow/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUYGh4f/aAAgBAQABPxAhRbyckxbxu1FYu1c+mo4dA7PiCQAuk3HxP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;the sky&quot;
+        title=&quot;Follow me on Instagram to see more : https://www.instagram.com/smakosh19&quot;
+        src=&quot;/static/flight-51d00c9f7ae97844492ca7737a6e139a-5025c.jpeg&quot;
+        srcset=&quot;/static/flight-51d00c9f7ae97844492ca7737a6e139a-097a5.jpeg 270w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-d02ea.jpeg 540w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-5025c.jpeg 1080w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-66465.jpeg 1620w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-7862b.jpeg 2160w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-711c0.jpeg 3240w,
+/static/flight-51d00c9f7ae97844492ca7737a6e139a-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I wanted to visit Istanbul 3 years ago and even told my friends about it, but 2 years after that moment, I didn’t really want to travel anywhere anymore because in my opinion, the Internet (even if it’s not decentralized) saves us money &amp;#x26; time and so we don’t really need to travel anymore, I buy all my stuff online on Ebay, I work remotely at Obytes as a front end engineer, I learn at Udemy or YouTube, I read articles on Medium, Dev &amp;#x26; Codementor, I watch movies/series on Netflix &amp;#x26; I attend any event or conference via YouTube or Facebook live….&lt;/p&gt;
+&lt;p&gt;Which is why I think we don’t really need to travel anymore but that doesn’t make me wanna stay in Morocco due to many reasons and the most important one is the lack of funding &amp;#x26; a bad educational system. But I wanted to really experience travelling to see if it’s really worth it. So as a nerd obviously I have to get prepared using tech, so here are the stuff I used to get ready, walk around…:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google trips: &lt;a href=&quot;https://get.google.com/trips/&quot;&gt;https://get.google.com/trips/&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Booked my Hotel room on Booking.&lt;/li&gt;
+&lt;li&gt;Downloaded Uber &amp;#x26; Istanbul offline map.&lt;/li&gt;
+&lt;li&gt;Booked my flight via: Google flights.&lt;/li&gt;
+&lt;li&gt;Packed up my laptop/Phone/GoPro/headset/earphones/cables etc…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;First time taking a flight, I coded at the airport for the first time, the flight was nice during take off but sucks during landing! once arrived at Istanbul, I exchanged a little amount of money and booked an Uber directly to the Hotel. After checking out social media &amp;#x26; the room, I got to sleep. As I’ve already marked the places I wanted to visit there on Google trips, I got up the next day and went outside (and yeah I went alone and got an idea to make this shirt), tl;dr I walked around Taksim square, boat tour, ate Chawarma &amp;#x26; got back to my hotel. Here are some pictures I took.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/boat-0f43d861351dc98e984bbec388c7b76d-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABV5i6RVMAf//EABsQAAEEAwAAAAAAAAAAAAAAAAABAgMREhMh/9oACAEBAAEFAracKQbLibBJnIf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Aauv/8QAGRAAAQUAAAAAAAAAAAAAAAAAEAABESEx/9oACAEBAAY/AjbSNX//xAAcEAADAAEFAAAAAAAAAAAAAAAAAREhEDFBUXH/2gAIAQEAAT8hTJuTvPdLiAWbmBJEyP/aAAwDAQACAAMAAAAQsy//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCUP//EABgRAAIDAAAAAAAAAAAAAAAAAAABETFh/9oACAECAQE/EE82aH//xAAbEAEBAQEBAAMAAAAAAAAAAAABEQAhQVFxgf/aAAgBAQABPxAmDrknuG40PBNXoj9GtWgSVE/TdYIVZbNFA+B3/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Galata bridge, boat&quot;
+        title=&quot;&quot;
+        src=&quot;/static/boat-0f43d861351dc98e984bbec388c7b76d-5025c.jpeg&quot;
+        srcset=&quot;/static/boat-0f43d861351dc98e984bbec388c7b76d-097a5.jpeg 270w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-d02ea.jpeg 540w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-5025c.jpeg 1080w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-66465.jpeg 1620w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-7862b.jpeg 2160w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-711c0.jpeg 3240w,
+/static/boat-0f43d861351dc98e984bbec388c7b76d-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAGrJhpigYIfQRCNNEzhr//EABsQAAICAwEAAAAAAAAAAAAAAAABAgMREjET/9oACAEBAAEFAtRwNR4Q9pHiX2qVUuqSHwyf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/Aa1GP//EABoQAAICAwAAAAAAAAAAAAAAAAARASEQIDH/2gAIAQEABj8CzYuFuRKNv//EABwQAQACAgMBAAAAAAAAAAAAAAEAETFRECFBgf/aAAgBAQABPyGKK4PK+exvQCevbKOSbuKkl6iHq1iCMRSrctuf/9oADAMBAAIAAwAAABAHP4//xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhUf/aAAgBAwEBPxAFLntra3//xAAYEQADAQEAAAAAAAAAAAAAAAAAARFxof/aAAgBAgEBPxBonDHSEQf/xAAeEAEAAwEAAgMBAAAAAAAAAAABABEhMYHBQVFxkf/aAAgBAQABPxAxyEUK2bZxofcQOwMyXg1fhApFEXBDh4i6/kipLpgDFP8AYPsodN3gepR0PlIyG21guvqIuKf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;A bridge&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-5025c.jpeg&quot;
+        srcset=&quot;/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-097a5.jpeg 270w,
+/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-d02ea.jpeg 540w,
+/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-5025c.jpeg 1080w,
+/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-66465.jpeg 1620w,
+/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-7862b.jpeg 2160w,
+/static/bridge-4a0e7a61ab3f7a32b8be1874e6850de6-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Day 3: I went to checkout the Startup Istanbul conference, the first day was boring so I won’t talk about it but rather I’ll jump into Day 4 when I went to check more places out! tl;dr here are the pictures I took there:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mosque-6d93dcf9005bf343a40b305afd9525da-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABzJVsrEhv/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERID/9oACAEBAAEFAmuSo70VnmbHkVLT/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAZEAACAwEAAAAAAAAAAAAAAAAAAREhMRD/2gAIAQEABj8Cp7yxTonZJ//EABsQAQACAgMAAAAAAAAAAAAAAAEAESExUWFx/9oACAEBAAE/IamxjZZjjKnipZFXQ6lqrSMWUfJ//9oADAMBAAIAAwAAABBc3//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPxDKp//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QH//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExQVFxgcH/2gAIAQEAAT8Qoy2gMUn9igAW0REBqmbFMUy3pmHTPKoeQJTiIQ75n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;A mosque&quot;
+        title=&quot;&quot;
+        src=&quot;/static/mosque-6d93dcf9005bf343a40b305afd9525da-5025c.jpeg&quot;
+        srcset=&quot;/static/mosque-6d93dcf9005bf343a40b305afd9525da-097a5.jpeg 270w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-d02ea.jpeg 540w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-5025c.jpeg 1080w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-66465.jpeg 1620w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-7862b.jpeg 2160w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-711c0.jpeg 3240w,
+/static/mosque-6d93dcf9005bf343a40b305afd9525da-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAZnbdRYx5ozOli3CER//xAAcEAACAgIDAAAAAAAAAAAAAAABAwACEBIEEUL/2gAIAQEAAQUCwJWuxCx0VkSjdBXkQuVj1P/EABgRAQADAQAAAAAAAAAAAAAAAAABAhES/9oACAEDAQE/AZs1jl//xAAYEQEBAQEBAAAAAAAAAAAAAAABABECEv/aAAgBAgEBPwE4bG1vTf/EABoQAAICAwAAAAAAAAAAAAAAAAAiEBEgMTL/2gAIAQEABj8CldQpVDnWH//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExYUGB/9oACAEBAAE/IQ5As5BjbCtz9LA0TsU0TrFQZLcYaCnCWMX+T2W5dit7n//aAAwDAQACAAMAAAAQeAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EIMLLD//xAAYEQEBAAMAAAAAAAAAAAAAAAABABBBYf/aAAgBAgEBPxBLcoLeL//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQVFhgZH/2gAIAQEAAT8QUc28Zuby5gFAq65hZE9FEevZe022zpjUsc5Soc5pFdYOPkb0XsBPyE0idyPPm4UbNuT9lhlvuf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;A mosque and a tree&quot;
+        title=&quot;&quot;
+        src=&quot;/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-5025c.jpeg&quot;
+        srcset=&quot;/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-097a5.jpeg 270w,
+/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-d02ea.jpeg 540w,
+/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-5025c.jpeg 1080w,
+/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-66465.jpeg 1620w,
+/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-7862b.jpeg 2160w,
+/static/mosque2-7a45d092dcb4f3d3b238005a9f02c58d-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Nothing special happened and I didn’t really enjoy walking around, as you can tell I kept simply taking pictures with my Nexus 6p, I was impatient getting back to my room to learn Angular Js which I was learning during this travel. on my way back to the hotel, I visited this weird modern museum and took some pictures.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/museum-884877a298c80e047d17bb1e8bdd1202-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABxnZA+wQlP//EABkQAQADAQEAAAAAAAAAAAAAAAEAAhEDEv/aAAgBAQABBQLvjOfmCZZ0pZxuz//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/AYf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAQEBAAAAAAAAAAAAAAAAASEREDH/2gAIAQEABj8Cvo9rFB6V8//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExQVFx/9oACAEBAAE/Iaw4Ln5MaUnPkAQDOVB6DXsyLHxgHs//2gAMAwEAAgADAAAAEEjf/8QAFREBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQMBAT8QQE//xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQIBAT8QKZ//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhUTFBYXGBkf/aAAgBAQABPxBvGAW+s+wlsKAONcu3tBR9cKBiM5vwRdeINst9GpTL8T//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;museum&quot;
+        title=&quot;&quot;
+        src=&quot;/static/museum-884877a298c80e047d17bb1e8bdd1202-5025c.jpeg&quot;
+        srcset=&quot;/static/museum-884877a298c80e047d17bb1e8bdd1202-097a5.jpeg 270w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-d02ea.jpeg 540w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-5025c.jpeg 1080w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-66465.jpeg 1620w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-7862b.jpeg 2160w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-711c0.jpeg 3240w,
+/static/museum-884877a298c80e047d17bb1e8bdd1202-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAXMlbzeknh//xAAZEAEAAwEBAAAAAAAAAAAAAAAAAQIDERL/2gAIAQEAAQUCronR7lVLr//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAQEBAQEBAAAAAAAAAAAAAAEAEUEhMf/aAAgBAQABPyF8+EucnbkCxKHxb//aAAwDAQACAAMAAAAQB8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEBAQEBAQAAAAAAAAAAAAABABFBgZH/2gAIAQEAAT8QzI5UcnB5YewR37OgRf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;legs only, museum&quot;
+        title=&quot;&quot;
+        src=&quot;/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-5025c.jpeg&quot;
+        srcset=&quot;/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-097a5.jpeg 270w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-d02ea.jpeg 540w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-5025c.jpeg 1080w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-66465.jpeg 1620w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-7862b.jpeg 2160w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-711c0.jpeg 3240w,
+/static/museum2-b92d67bbf37db58afcf8ac864cb94f93-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Day 5: was the second day of the conference which I actually enjoyed because they brought Tim Draper &amp;#x26; some folks from 500 startups &amp;#x26; YC who declined I &amp;#x26; my friend’s application to Winter 2018 program, they kept speaking about the blockchain, ICO &amp;#x26; Ai.&lt;/p&gt;
+&lt;p&gt;At that night I met with some great people, one of them was also from Morocco and so we visited a nice place &amp;#x26; viewed Istanbul in 3D.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABV5gbDQYJe61DEgP/xAAfEAACAAUFAAAAAAAAAAAAAAABAgADBBIxEBEhIkH/2gAIAQEAAQUCuIOYtie9s5X5GKjucEOu3raf/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPwGoa//EABcRAQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BqWP/xAAcEAABAwUAAAAAAAAAAAAAAAABAAIQIDFBUZH/2gAIAQEABj8CIl3VfMAjVX//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhQWEQMf/aAAgBAQABPyHgDUFgLtiEOReBgykAuy0YCDq7lV9l5nIMef/aAAwDAQACAAMAAAAQ9w/D/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EBJgj//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/EHSidx//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRobH/2gAIAQEAAT8QG1y/qHGeWoBbZKMAakO+ZWQUjrUt13ZeJpEG7uz7EQLZ4qABQ7lsrFYA8ajzP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;elevator&quot;
+        title=&quot;&quot;
+        src=&quot;/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-5025c.jpeg&quot;
+        srcset=&quot;/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-097a5.jpeg 270w,
+/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-d02ea.jpeg 540w,
+/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-5025c.jpeg 1080w,
+/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-66465.jpeg 1620w,
+/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-7862b.jpeg 2160w,
+/static/elevator-6b19092be4a39ca81ca9a5a3ab2709bd-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/view-db553dbe4933f17846f100ee42b4db20-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAcqWu2SAV//EABkQAAMBAQEAAAAAAAAAAAAAAAABAiEREv/aAAgBAQABBQKJR4Q52WdHj//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETEh/9oACAEBAAY/AtRs8KbP/8QAGRABAQADAQAAAAAAAAAAAAAAAQARMUFR/9oACAEBAAE/IVbp88HVgNBZdbiNgp4X/9oADAMBAAIAAwAAABD83//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QH//EABYRAQEBAAAAAAAAAAAAAAAAAAAhUf/aAAgBAgEBPxDCv//EABsQAQADAQADAAAAAAAAAAAAAAEAESFBMVFx/9oACAEBAAE/EB2hXL8ys8fsOgKTALGCF7FAEVBT7YBLE2JP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;beautiful view&quot;
+        title=&quot;&quot;
+        src=&quot;/static/view-db553dbe4933f17846f100ee42b4db20-5025c.jpeg&quot;
+        srcset=&quot;/static/view-db553dbe4933f17846f100ee42b4db20-097a5.jpeg 270w,
+/static/view-db553dbe4933f17846f100ee42b4db20-d02ea.jpeg 540w,
+/static/view-db553dbe4933f17846f100ee42b4db20-5025c.jpeg 1080w,
+/static/view-db553dbe4933f17846f100ee42b4db20-66465.jpeg 1620w,
+/static/view-db553dbe4933f17846f100ee42b4db20-7862b.jpeg 2160w,
+/static/view-db553dbe4933f17846f100ee42b4db20-711c0.jpeg 3240w,
+/static/view-db553dbe4933f17846f100ee42b4db20-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Day 6: was the day before the last day there in Istanbul and so I woke up early, took my breakfast &amp;#x26; went back to that view to take more pictures.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/city-f20a831ed3eedeb533bf05168f6da690-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAG+3LZU6JRDHmixO8IDf//EABwQAAEEAwEAAAAAAAAAAAAAAAIAARETECExMv/aAAgBAQABBQJoU4t1ayuZCcYdxQ9H0Xf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAQMQACIHH/2gAIAQEABj8C04zbg//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExEFH/2gAIAQEAAT8hMFcfDsEyt5CvrFtwMBofiWtILq8ybCijESR//9oADAMBAAIAAwAAABA740H/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EIyEz//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QqKi5/8QAHRABAQEBAAMAAwAAAAAAAAAAAREAITFBUYGRsf/aAAgBAQABPxBkjHSQ7lHuleYh7mCAP5eNC/tiY5Fblw0OkaPrA4hnzBCqOMRFOJDnnx+jRBAnzf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;View of the city from the top&quot;
+        title=&quot;&quot;
+        src=&quot;/static/city-f20a831ed3eedeb533bf05168f6da690-5025c.jpeg&quot;
+        srcset=&quot;/static/city-f20a831ed3eedeb533bf05168f6da690-097a5.jpeg 270w,
+/static/city-f20a831ed3eedeb533bf05168f6da690-d02ea.jpeg 540w,
+/static/city-f20a831ed3eedeb533bf05168f6da690-5025c.jpeg 1080w,
+/static/city-f20a831ed3eedeb533bf05168f6da690-66465.jpeg 1620w,
+/static/city-f20a831ed3eedeb533bf05168f6da690-7862b.jpeg 2160w,
+/static/city-f20a831ed3eedeb533bf05168f6da690-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dailyview-2065e4893ddf38f54e06807ea5eed695-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAF2kaisjB//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIDEhP/2gAIAQEAAQUCVsBWxOtQmaNH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAADEg/9oACAEBAAY/AkTH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERMRBhgf/aAAgBAQABPyGNUsTtuGyMwY//2gAMAwEAAgADAAAAEAQv/8QAFREBAQAAAAAAAAAAAAAAAAAAEQD/2gAIAQMBAT8QCL//xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8Q1H//xAAcEAACAgIDAAAAAAAAAAAAAAABEQBBIWExUXH/2gAIAQEAAT8QCArU5WXwJun2jFGQANQ8quZUKn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;daily beautiful view&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dailyview-2065e4893ddf38f54e06807ea5eed695-5025c.jpeg&quot;
+        srcset=&quot;/static/dailyview-2065e4893ddf38f54e06807ea5eed695-097a5.jpeg 270w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-d02ea.jpeg 540w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-5025c.jpeg 1080w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-66465.jpeg 1620w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-7862b.jpeg 2160w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-711c0.jpeg 3240w,
+/static/dailyview-2065e4893ddf38f54e06807ea5eed695-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Day 7: I prepared my stuff and booked an Uber directly to the airport, the driver got a tip from me &amp;#x26; was so happy, funny they check the laptops too in the airport, I spend some time coding at the airport again and then got back to Morocco.&lt;/p&gt;
+&lt;p&gt;You can check out all the pictures I took &lt;a href=&quot;https://unsplash.com/@smakosh&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;div class=&quot;responsive-video&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/3ixSvX5-Nsw&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/div&gt;
+&lt;p&gt;I learned to never go on vacation again, stay inside my room &amp;#x26; learn to build useful products.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I made Unnamed?]]></title><description><![CDATA[I hate when I use a known css framework like Skeleton or Bulma… and specially frameworks like Bootstrap or Foundation… Because of many…]]></description><guid isPermaLink="false">Why I made Unnamed?</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Wed, 20 Sep 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/unnamed_blog-f08c898f6c12d7c0fe89b6eb3fb974ed-f7d78.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 929px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAHcnonuNYmwAH//xAAaEAEAAwADAAAAAAAAAAAAAAACAQMSABEg/9oACAEBAAEFAmsEXanjOiK+p8f/xAAYEQACAwAAAAAAAAAAAAAAAAABEgIRIP/aAAgBAwEBPwGTsKx//8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAECAQE/AYE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAECAhMf/aAAgBAQAGPwJxEKlNnmP/xAAaEAEAAgMBAAAAAAAAAAAAAAABABARIUEx/9oACAEBAAE/IRR8jDtvKB1MSo8avFf/2gAMAwEAAgADAAAAEF/IPP/EABURAQEAAAAAAAAAAAAAAAAAACBh/9oACAEDAQE/EJkf/8QAFhEBAQEAAAAAAAAAAAAAAAAAESEg/9oACAECAQE/EGBcf//EABwQAQACAgMBAAAAAAAAAAAAAAEAMREhEEFRof/aAAgBAQABPxArVKB2z2oMXjPODvJYk1qLRYfeEGyYeSp//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Unnamed&quot;
+        title=&quot;&quot;
+        src=&quot;/static/unnamed_blog-f08c898f6c12d7c0fe89b6eb3fb974ed-f7d78.jpeg&quot;
+        srcset=&quot;/static/unnamed_blog-f08c898f6c12d7c0fe89b6eb3fb974ed-4db9d.jpeg 270w,
+/static/unnamed_blog-f08c898f6c12d7c0fe89b6eb3fb974ed-a0a26.jpeg 540w,
+/static/unnamed_blog-f08c898f6c12d7c0fe89b6eb3fb974ed-f7d78.jpeg 929w&quot;
+        sizes=&quot;(max-width: 929px) 100vw, 929px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I hate when I use a known css framework like Skeleton or Bulma… and specially frameworks like Bootstrap or Foundation…&lt;/p&gt;
+&lt;p&gt;Because of many reasons but here’s the main reason: “since I’m also an UI designer, I always have to rewrite the entire css code of the UI elements like buttons, forms, cards…”.&lt;/p&gt;
+&lt;p&gt;So I started going deep in css, like the trick to style a radio or checkbox button (hiding the input and styling the span tag), learned a lot about flexbox, about the standard way to make a grid system (floats &amp;#x26; widths), flexbox grids &amp;#x26; also cssgrid &amp;#x26; a lot more…, and so I started posting pens of each styled element on my &lt;a href=&quot;https://codepen.io/smakosh&quot;&gt;codepen&lt;/a&gt; until one day I was designing an UI kit at 2 am — lol — and I thought about coding each element &amp;#x26; that’s when I started coding the framework, I didn’t think about sharing it or open sourcing it but then I thought why not? some would love to use it too right? &amp;#x26; so, I published it, made it open source &amp;#x26; included everything on the github repository for the front end developers who would love to edit everything.&lt;/p&gt;
+&lt;p&gt;Unnamed is easy to use &amp;#x26; to edit!, there is also a npm module &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ nmp i unnamed&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;&amp;#x26; import it if you’re using webpack&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import &amp;#39;unnamed&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;There is also a CDN if you’re not used to the node eco-system&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;https://unpkg.com/unnamed&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;I got a positive &amp;#x26; negative feedback on Product hunt that really made me go forward and make more useful products so expect more soon!&lt;/p&gt;
+&lt;p&gt;Docs: &lt;a href=&quot;https://unnamed.smakosh.com&quot;&gt;https://unnamed.smakosh.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On github: &lt;a href=&quot;https://github.com/smakosh/unnamed-css-framework&quot;&gt;https://github.com/smakosh/unnamed-css-framework&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Build your perceptron neural net from scratch]]></title><description><![CDATA[“ In the late ’50s, a Cornell scientist named Frank Rosenblatt had proposed the world’s first neural network machine. It was called the…]]></description><guid isPermaLink="false">Build your perceptron neural net from scratch</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Sat, 12 Aug 2017 16:45:01 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“ In the late ’50s, a Cornell scientist named Frank Rosenblatt had proposed the world’s first neural network machine. It was called the Perceptron”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Let’s start by defining the terms first, Ai (Artificial intelligence), ANN (Artificial neural networks), Machine learning &amp;#x26; Deep learning.&lt;/p&gt;
+&lt;h2 id=&quot;ai&quot;&gt;&lt;a href=&quot;#ai&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ai&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The field of AI research defines itself as an area of computer science that deals with giving machines the ability to seem like they are intelligent, which we haven’t yet reached since neuroscience haven’t solved intelligence yet.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;ann&quot;&gt;&lt;a href=&quot;#ann&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ANN&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ANN or a neural net is a computing system inspired by the biological neural networks that constitute biological brains but they look so different.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/nn-67fa59a0108c2ae37996e4b5801fb030-5025c.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.944444444444436%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe5dAo//xAAVEAEBAAAAAAAAAAAAAAAAAAAgIf/aAAgBAQABBQKr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAASD/2gAIAQEABj8Ca//EABkQAAIDAQAAAAAAAAAAAAAAAAAhAREgQf/aAAgBAQABPyGJunUOh4//2gAMAwEAAgADAAAAEPAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAIDAAAAAAAAAAAAAAAAARFBABBR/9oACAEBAAE/EFAxCD6ZJ6bcGxovX//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;ANN vs biological neuron&quot;
+        title=&quot;&quot;
+        src=&quot;/static/nn-67fa59a0108c2ae37996e4b5801fb030-5025c.jpeg&quot;
+        srcset=&quot;/static/nn-67fa59a0108c2ae37996e4b5801fb030-097a5.jpeg 270w,
+/static/nn-67fa59a0108c2ae37996e4b5801fb030-d02ea.jpeg 540w,
+/static/nn-67fa59a0108c2ae37996e4b5801fb030-5025c.jpeg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ON the left: The biological neuron graph &amp;#x26; on the right: the artificial neural network&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;machine-learning&quot;&gt;&lt;a href=&quot;#machine-learning&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Machine learning&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Machine learning is a field within Ai that focuses on the design of algorithms that can learn from a given data and results which we call “training data” to make a prediction based on that given data from new input data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;deep-learning&quot;&gt;&lt;a href=&quot;#deep-learning&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Deep learning&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Deep learning is a sub-field within Machine learning which focuses on the same goal but which uses neural networks &amp;#x26; deep neural networks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/nvidia-79d4d2f25209e8ad808bf63b050a166d-83423.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.61111111111112%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAC0klEQVQoz32RW0ySUQDHz5zanCOnXVZbt2k1m72kU9d6cD300EOaLTMllWqGFzJKUfPG1Ad0qas0hWyalgxTQUAFb3jFDzUFlBxiudIEb01FuX18QOfDeumhc37773/Ozu9sZwdYrLsWq96CwdxFMQOKGVFs7//Aw1abyeFwgN75bMlCXp/meY+a1qFKFsySO2ZTO1WP9+n6kvYPojkqfyZxaukdLvMVqe3ytPZpilBJFcwktcmJ9RNXWUgICwllIcE1Y5eYSCATCWIhQUycQJYs+NXIuW51Oi5/kBJr+6PrBmPYsthWRRxXSaoau1A1HsCaDHmN+NP7QUEfyOsFOT145vcCer8rTQzYyghc5irjP8mjWhR3GqQxDaMx7TOkisHzNK4nvcuHLvLJEblBOauTkNfl+4xPoHBd0nhuDzjg7dgtXOYp7y9sCtdNMmJORGRGmFidxJAcqRwJrRy+nMX3qJ+8XiXzp/I8cwWBNN5ZauuJRPaB2EZQPeKUO1VPE7JTKcXpmpWJnxvflSsfSwYOlY8dezkY9B65Vz4YUCY9TOaA+FovarNvBu/MoyZCbAOoGXXK4jlaUeNdBpv4Y0vyyzCn1gkqhk8V9INMvvvNwqO5YpeiAVdyC6gavdEpa+WPciqHw6MbAFMahcttCqJIkyDSkDhTt9mfI1rksWVDJwskIIPrfo12PK8bFEpc4CNfDF2p4ZWmMlIym8LCmaBaGonLAlUyV/GwXUmGvwc/WTib8ga5WDzgUTrsUzpCKBnyZgx50YTelNaDuV1++SK/J82nSY2gbjwOl5fXFnaMK0ur89sGLexbBu2iVrmmn1/UKXTb6q/aadjVy1Obe4ur+gXdjnrD8G1tV6M3reOy0WAxG60mIwqBHSZcWkw2sxGDaTJiZgOGoTYHnFaH3YnD7tgfwIJaIKgVRWHCDlfW/WL+u2O22TC73WZzYv8DfsFvqfYQzESlsc8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;fields&quot;
+        title=&quot;&quot;
+        src=&quot;/static/nvidia-79d4d2f25209e8ad808bf63b050a166d-83423.png&quot;
+        srcset=&quot;/static/nvidia-79d4d2f25209e8ad808bf63b050a166d-40bbf.png 270w,
+/static/nvidia-79d4d2f25209e8ad808bf63b050a166d-0a31b.png 540w,
+/static/nvidia-79d4d2f25209e8ad808bf63b050a166d-83423.png 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;So what’s the perceptron then ? Well the perceptron is an algorithm for supervised learning (which means we know the result we’re trying to get, say like feeding the size &amp;#x26; location of a house to predict the price, in the other hand there is unsupervised learning which is used to draw results from datasets consisting of input data without labeled responses).&lt;/p&gt;
+&lt;p&gt;The perceptron receives input data multiplied by random weights and adds a bias value, put in an activation function to get a result, if the result value is wrong, it uses back propagation &amp;#x26; gradient descent to go back &amp;#x26; tweak the weights to get a correct result.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/single_neuron-75ff3a5098723973ec936a24be607fcd-a417d.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 926px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.75161987041036%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHuxSNBB//EABgQAAMBAQAAAAAAAAAAAAAAAAABAhAx/9oACAEBAAEFAmTVPH0R/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAABEBAiD/2gAIAQEABj8CJdVn/8QAHBAAAgICAwAAAAAAAAAAAAAAAAERQRAhMVFh/9oACAEBAAE/IWiypp69wwl9nA//2gAMAwEAAgADAAAAEJvP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFxEBAAMAAAAAAAAAAAAAAAAAARAhMf/aAAgBAgEBPxAayP/EABwQAQADAAIDAAAAAAAAAAAAAAEAESEQMVGh8P/aAAgBAQABPxDRVXx36mslXZ6cMKlMjtr6olNz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;perceptron&quot;
+        title=&quot;&quot;
+        src=&quot;/static/single_neuron-75ff3a5098723973ec936a24be607fcd-a417d.jpeg&quot;
+        srcset=&quot;/static/single_neuron-75ff3a5098723973ec936a24be607fcd-176c5.jpeg 270w,
+/static/single_neuron-75ff3a5098723973ec936a24be607fcd-a8e43.jpeg 540w,
+/static/single_neuron-75ff3a5098723973ec936a24be607fcd-a417d.jpeg 926w&quot;
+        sizes=&quot;(max-width: 926px) 100vw, 926px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It can be more than 2 inputs!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I know there are some terms there you didn’t get, so let’s go ahead and explain that slowly, let’s say you’re a farmer and you want to classify two types of flowers manually, the best way to do this manually is to take the length &amp;#x26; width of each flowers’ paddle and represent them on a graph just like shown bellow:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-4b365.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.25938566552902%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHeFtILB//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABYQAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAQABPyEyut//2gAMAwEAAgADAAAAENAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRAAAQQCAwAAAAAAAAAAAAAAAQARITEQgUGhsf/aAAgBAQABPxAntLn1EOa2hzBGl3kKx//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Iris Data&quot;
+        title=&quot;&quot;
+        src=&quot;/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-5025c.jpeg&quot;
+        srcset=&quot;/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-097a5.jpeg 270w,
+/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-d02ea.jpeg 540w,
+/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-5025c.jpeg 1080w,
+/static/iris_data-d9d3b89087189fdaba3eb5d1edf905fe-4b365.jpeg 1172w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data was taken from &lt;a href=&quot;https://kaggle.com&quot;&gt;https://kaggle.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Notice the unknown flower we’re trying to figure its type, as you can see on the graph it’s represented among the type 2 of flowers which means it is a type 2 flower.&lt;/p&gt;
+&lt;p&gt;What you’ve just did manually is called linear regression, you’ve represented as many flowers you have on the graph as a training data, then you noticed that pattern and drew a line between the two types.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/intuition-68b9e612fc0493fe81e76656e02cd797-4b365.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.25938566552902%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHeFtILB//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABYQAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAQABPyErrf/aAAwDAQACAAMAAAAQ0A//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAQMFAAAAAAAAAAAAAAABADFBgRARIaGx/9oACAEBAAE/EEpW77E3aZhfhMTvQpp//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Intuition&quot;
+        title=&quot;&quot;
+        src=&quot;/static/intuition-68b9e612fc0493fe81e76656e02cd797-5025c.jpeg&quot;
+        srcset=&quot;/static/intuition-68b9e612fc0493fe81e76656e02cd797-097a5.jpeg 270w,
+/static/intuition-68b9e612fc0493fe81e76656e02cd797-d02ea.jpeg 540w,
+/static/intuition-68b9e612fc0493fe81e76656e02cd797-5025c.jpeg 1080w,
+/static/intuition-68b9e612fc0493fe81e76656e02cd797-4b365.jpeg 1172w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;So now let’s automate it using our own perceptron built from scratch, the activation function we’ll be using is Sigmoid, here’s how it looks like on the graph:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-4b365.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.25938566552902%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB35QB/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFhAAAwAAAAAAAAAAAAAAAAAAABEg/9oACAEBAAE/IRz/AP/aAAwDAQACAAMAAAAQY8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAAIDAAAAAAAAAAAAAAABEQAhEHGR/9oACAEBAAE/EK3YTvEKAnuEmuTP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Sigmoid function&quot;
+        title=&quot;&quot;
+        src=&quot;/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-5025c.jpeg&quot;
+        srcset=&quot;/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-097a5.jpeg 270w,
+/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-d02ea.jpeg 540w,
+/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-5025c.jpeg 1080w,
+/static/sigmoid-e6defb81b4fd999546a61cde1f4e7895-4b365.jpeg 1172w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sigmoid function&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now let’s understand how back propagation &amp;#x26; gradient descent work, and to do so we will need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The cost function or also known as squared error function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cost_function-08c28db10752531029eca6138005153c-7a643.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 629px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.87917329093799%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe9NiKP/xAAYEAACAwAAAAAAAAAAAAAAAAAAAREgIf/aAAgBAQABBQJybX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAAAASAhMf/aAAgBAQAGPwKkZH//xAAbEAABBAMAAAAAAAAAAAAAAAABABEgIUGBwf/aAAgBAQABPyEgybT17j//2gAMAwEAAgADAAAAEAMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQARITEgQXH/2gAIAQEAAT8QYOmjKYIA2dMf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cost function&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cost_function-08c28db10752531029eca6138005153c-7a643.jpeg&quot;
+        srcset=&quot;/static/cost_function-08c28db10752531029eca6138005153c-47f8d.jpeg 270w,
+/static/cost_function-08c28db10752531029eca6138005153c-8f3a5.jpeg 540w,
+/static/cost_function-08c28db10752531029eca6138005153c-7a643.jpeg 629w&quot;
+        sizes=&quot;(max-width: 629px) 100vw, 629px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The derivative of the sigmoid function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/sigmoid_derivative-5e0967b86c18eac8a23a59e7003fc04c-d1dec.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 579px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.52331606217617%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe62Io//xAAWEAEBAQAAAAAAAAAAAAAAAAAhACD/2gAIAQEAAQUCZz//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAEBAQAAAAAAAAAAAAAAAAAxACD/2gAIAQEABj8CIz//xAAcEAACAQUBAAAAAAAAAAAAAAABEQAgITFBcZH/2gAIAQEAAT8hb4LsJ1D2Bq9H/9oADAMBAAIAAwAAABBAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQABAwUAAAAAAAAAAAAAAAERACFRIDFBkcH/2gAIAQEAAT8QZQXW+PVASSRzHymrIOBnR//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;sigmoid derivative&quot;
+        title=&quot;&quot;
+        src=&quot;/static/sigmoid_derivative-5e0967b86c18eac8a23a59e7003fc04c-d1dec.jpeg&quot;
+        srcset=&quot;/static/sigmoid_derivative-5e0967b86c18eac8a23a59e7003fc04c-e6b6b.jpeg 270w,
+/static/sigmoid_derivative-5e0967b86c18eac8a23a59e7003fc04c-4dcce.jpeg 540w,
+/static/sigmoid_derivative-5e0967b86c18eac8a23a59e7003fc04c-d1dec.jpeg 579w&quot;
+        sizes=&quot;(max-width: 579px) 100vw, 579px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The derivative of the cost function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d_cost_function-f82fcc5535600404275563efa314f7d5-f347e.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 496px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 44.153225806451616%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHejYCGH//EABgQAAIDAAAAAAAAAAAAAAAAAAABESAi/9oACAEBAAEFAnJqv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAEFAAAAAAAAAAAAAAAAAAEAICExkf/aAAgBAQAGPwKAqGt//8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAQSAhgf/aAAgBAQABPyEqB7Gl0BrYRw//2gAMAwEAAgADAAAAEEAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAEEAwAAAAAAAAAAAAAAAREAICGhQVHB/9oACAEBAAE/EA7CHlZ69AlnVNlLkBks/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cost function derivative&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d_cost_function-f82fcc5535600404275563efa314f7d5-f347e.jpeg&quot;
+        srcset=&quot;/static/d_cost_function-f82fcc5535600404275563efa314f7d5-85397.jpeg 270w,
+/static/d_cost_function-f82fcc5535600404275563efa314f7d5-f347e.jpeg 496w&quot;
+        sizes=&quot;(max-width: 496px) 100vw, 496px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The slope of the cost function is: the derivative of the cost function multiplied by the derivative of sigmoid.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning rate: we will go with 0.2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For the derivatives of the weights, it’s the inputs’ values, — because the derivative of a constant multiplied by a non constant is the constant — &amp;#x26; for the derivative of the Bias it’s 1.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then we’ll be able to get the new weights &amp;#x26; bias values like shown bellow:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/new_values-3e7e3d3484c5b914628e7971286efad9-1a279.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 970px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.26804123711341%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd2LgD//xAAYEAACAwAAAAAAAAAAAAAAAAAAAREgIf/aAAgBAQABBQLSXX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAEBAQAAAAAAAAAAAAAAAAAxACD/2gAIAQEABj8CIz//xAAZEAEAAgMAAAAAAAAAAAAAAAABECERIDH/2gAIAQEAAT8hUNZQjl6f/9oADAMBAAIAAwAAABDwz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAICAwEAAAAAAAAAAAAAAAERACEgUWHR/9oACAEBAAE/EK4Btyz3GIIjzD//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;gernating new weights &amp; bias&quot;
+        title=&quot;&quot;
+        src=&quot;/static/new_values-3e7e3d3484c5b914628e7971286efad9-1a279.jpeg&quot;
+        srcset=&quot;/static/new_values-3e7e3d3484c5b914628e7971286efad9-ea5de.jpeg 270w,
+/static/new_values-3e7e3d3484c5b914628e7971286efad9-4f658.jpeg 540w,
+/static/new_values-3e7e3d3484c5b914628e7971286efad9-1a279.jpeg 970w&quot;
+        sizes=&quot;(max-width: 970px) 100vw, 970px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And we’re done&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Check the code on &lt;a href=&quot;https://github.com/smakosh/Perceptron-neural-net-from-scratch/blob/master/Linear_regression_perceptron.ipynb&quot;&gt;Github&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://www.kaggle.com/smakosh/perceptron-neural-net-from-scratch/notebook&quot;&gt;Kaggle&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[First time getting first prize at a hackathon]]></title><description><![CDATA[As I always do, to arrive at time I stay awake the whole night, so I spent that night coding & designing like most of my days.
+So after  I…]]></description><guid isPermaLink="false">First time getting first prize at a hackathon</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Sat, 08 Jul 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;As I always do, to arrive at time I stay awake the whole night, so I spent that night coding &amp;#x26; designing like most of my days.
+So after &lt;a href=&quot;/getting-my-first-job-offer&quot;&gt;I declined the job offer&lt;/a&gt;, I was invited once again to participate in a great hackathon organized by &lt;a href=&quot;https://lematin.ma&quot;&gt;Lematin&lt;/a&gt; by partnering with Screendy, but this hackathon was a bit serious since they invited only ideas holders at the beginning to select the good ones, then they invited us : designers, developers &amp;#x26; marketers to help them make a prototype.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFRMMzXYo//xAAZEAEBAAMBAAAAAAAAAAAAAAABAgADEQT/2gAIAQEAAQUCmJ4AbK2WYejmWtWvc//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGtf//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAaEAACAgMAAAAAAAAAAAAAAAAAAREhAjFB/9oACAEBAAY/AoakfEUaHkW5P//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExQXH/2gAIAQEAAT8hQ03VFuSB5sKhwQQ7EKV9qjBgS3yU3Etn/9oADAMBAAIAAwAAABBEz//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPxCcQ//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAgEBPxCBjrv/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhQTFRgf/aAAgBAQABPxAIVDX6esF+pF4L7DKkhUf2FS0aDS/tzSHxfqrZQYAFLMn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Co-working space&quot;
+        title=&quot;&quot;
+        src=&quot;/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-5025c.jpeg&quot;
+        srcset=&quot;/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-097a5.jpeg 270w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-d02ea.jpeg 540w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-5025c.jpeg 1080w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-66465.jpeg 1620w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-7862b.jpeg 2160w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-711c0.jpeg 3240w,
+/static/coworking_space-257d514dd965b010b9aa2f02b88a643a-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The event took place in &lt;a href=&quot;https://smartcenter.ma/&quot;&gt;Smart Center&lt;/a&gt;, a great co-working place which I recommend you to visit if someday you visited Casablanca city, Morocco.&lt;/p&gt;
+&lt;p&gt;Anyway as every other hackathon, the CEO of Lematin introduced &amp;#x26; declared the start of the hackathon, ideas holders started pitching their ideas so that we choose the one idea we got interested in, so once I heard the COOP 360 idea from a great guy, I immediately asked him to join the team as a designer &amp;#x26; developer as the same time &amp;#x26; he accepted instantly after showing him off my works.&lt;/p&gt;
+&lt;p&gt;Since it was an E-commerce platform I had to use my own github repo — &lt;a href=&quot;https://github.com/smakosh/Smartshop&quot;&gt;https://github.com/smakosh/Smartshop&lt;/a&gt; — of a starter kit E-commerce app built with php/mysql — yeah it lacks many things but it does the work as a prototype — anyway I started designing the logo, illustrations, changing sass color variables &amp;#x26; adding more pages since we needed more features because it wasn’t only an online shop, I didn’t sleep since I was focused on finishing that prototype, after 36 hours non stop of work, the jury then came in and projects’ holders started pitching their ideas with a demo of the prototype.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/jury-343f8701057dc4a23ec6a077d41e2ac6-5025c.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAdzn8ZauJNqETCf/xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREgMi/9oACAEBAAEFAub+tEuytaKKYwuZZxzXcLFT/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAIBAAAgEDBAMAAAAAAAAAAAAAAAERAiExEiJBYYGRof/aAAgBAQAGPwJLCZUvsmfRv1N9DvVPZmrwIc8EKx//xAAbEAEAAgMBAQAAAAAAAAAAAAABACERMUFRgf/aAAgBAQABPyG1ojlJDt5rwgdjm6MM18GWoQIpU4zMv6qg13IN9pyKqxP/2gAMAwEAAgADAAAAEMQPPv/EABcRAAMBAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8Qpj//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QwsmAv//EABwQAQEAAwADAQAAAAAAAAAAAAERACExYXGRQf/aAAgBAQABPxBVyWwA7KYUxQLsiTY7H8+5xcEKSewx8GeQPruGF7KD3mu4AgmFuL7jCqu09YcY9FTGpFSB3y+c/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pitch time&quot;
+        title=&quot;the guy with the glasses and suit looks just like Iron Man&quot;
+        src=&quot;/static/jury-343f8701057dc4a23ec6a077d41e2ac6-5025c.jpeg&quot;
+        srcset=&quot;/static/jury-343f8701057dc4a23ec6a077d41e2ac6-097a5.jpeg 270w,
+/static/jury-343f8701057dc4a23ec6a077d41e2ac6-d02ea.jpeg 540w,
+/static/jury-343f8701057dc4a23ec6a077d41e2ac6-5025c.jpeg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;To be honest I didn’t believe that we were going to win as I told my friend that we wouldn’t win this when the Jury was about to announce the winners of the first prize, but yeah I was wrong, we actually won &amp;#x26; got invited to assist to a conference where we’ll receive our prizes.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABzymxkSv/xAAbEAACAgMBAAAAAAAAAAAAAAABAwACEBIhQf/aAAgBAQABBQJddgyhXOz0nH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAgEBPwFH/8QAGBAAAgMAAAAAAAAAAAAAAAAAEDEAAVH/2gAIAQEABj8Cc2ix/8QAGxABAAICAwAAAAAAAAAAAAAAAQARECExQXH/2gAIAQEAAT8hPdV9jxSochEtslpbsiXtY//aAAwDAQACAAMAAAAQ9D//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QgX//xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAECAQE/EKJ4qP/EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVFxkf/aAAgBAQABPxAS7SVS/jAptLwN0SHVo805Kj0HxNJS6qq7Fru5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;getting the first prize&quot;
+        title=&quot;&quot;
+        src=&quot;/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-5025c.jpeg&quot;
+        srcset=&quot;/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-097a5.jpeg 270w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-d02ea.jpeg 540w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-5025c.jpeg 1080w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-66465.jpeg 1620w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-7862b.jpeg 2160w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-711c0.jpeg 3240w,
+/static/winners-7f3e46c6aac37fb08ebb72a7b290ae80-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/trophy-7d0e6802785d403d8152d083dd7772fd-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAaUm6RVIpiBTXTClH//EAB4QAAEEAQUAAAAAAAAAAAAAAAIAAQMSERATITEy/9oACAEBAAEFAqrGNBMzYZOd8E0Z0oQqzofL9Mv/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BI3//xAAdEAABBAIDAAAAAAAAAAAAAAAAAREhkRAgMUJR/9oACAEBAAY/AiMSenaiGsd0s5XT/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITFBYf/aAAgBAQABPyFoXaaEqIwyeEFsaeQLRa7mQ0rscDa21YZG5g//2gAMAwEAAgADAAAAEBM3jf/EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QjKV5/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBpCd//xAAdEAEBAAMAAwEBAAAAAAAAAAABEQAhMUFRobFx/9oACAEBAAE/EGaonI9wQR5Q7mUCDHGm+w6ts7jqKKDYiM17uT1uOng+s4QogGo41Sto2/uCB1WL3Pjz4n8z9s//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;the trophy&quot;
+        title=&quot;&quot;
+        src=&quot;/static/trophy-7d0e6802785d403d8152d083dd7772fd-5025c.jpeg&quot;
+        srcset=&quot;/static/trophy-7d0e6802785d403d8152d083dd7772fd-097a5.jpeg 270w,
+/static/trophy-7d0e6802785d403d8152d083dd7772fd-d02ea.jpeg 540w,
+/static/trophy-7d0e6802785d403d8152d083dd7772fd-5025c.jpeg 1080w,
+/static/trophy-7d0e6802785d403d8152d083dd7772fd-66465.jpeg 1620w,
+/static/trophy-7d0e6802785d403d8152d083dd7772fd-7862b.jpeg 2160w,
+/static/trophy-7d0e6802785d403d8152d083dd7772fd-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://lematin.ma/express/2017/remise-des-trophees-aux-gagnants-du-hackathon-laquo-morocco-social-tech-raquo-/274777.html&quot;&gt;News coverage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a conclusion, what I really learned during this hackathon is to never give up and just do your best &amp;#x26; go beyond your obstacles!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Getting my first job offer without a degree at a startup]]></title><description><![CDATA[It all started on facebook, I was reading Tech crunch news until a notification popped up, my friend  Med Bouasria  tagged me on a job…]]></description><guid isPermaLink="false">Getting my first job offer without a degree at a startup</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Wed, 07 Jun 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;It all started on facebook, I was reading Tech crunch news until a notification popped up, my friend &lt;a href=&quot;https://medium.com/@medbouasria&quot;&gt;Med Bouasria&lt;/a&gt; tagged me on a job announcement on a facebook post of &lt;a href=&quot;http://hiddenfounders.com/&quot;&gt;Hidden Founders&lt;/a&gt;, they were looking for a front end developer, I wasn’t really sure If a self-taught undergraduate person like me will get a job, so I left a reply on the comment section saying that “they will ask me for a degree”, but surprisingly Hidden Founders themselves replied to my comment clarifying that they don’t really care about degrees, so obviously I applied. After some days, I got a reply asking me for an interview and because I wasn’t living in the same city I asked if there is any possibility for a skype interview, and yes they nicely accepted.&lt;/p&gt;
+&lt;p&gt;It was nice speaking with Zakaria Braksa who’s VP of engineering at HF who asked me by the way direct questions like “what can you do? have you ever faced any problems ? if so how did you solve them ?..”. I got accepted for one month paid internship. when time has come to travel so that I start my internship, I had four different opportunities :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A friend’s of my brother who asked me to join them&lt;/li&gt;
+&lt;li&gt;Screendy which offered me a free flight to help them organize a hackathon in Abidjan&lt;/li&gt;
+&lt;li&gt;Gamacom which is a networking company&lt;/li&gt;
+&lt;li&gt;Hidden Founders which I accepted to join them for one month internship with passion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But really thanks to Med Bouasria who kept saying good things about them and which motivated me more to join them ASAP. The first thing that surprised me during the first day is their CEO who wasn’t wearing a suit, He also offered me a free nespresso coffee the first 2 days and everyone welcomed me on Slack, they invited me into Trello boards, Invision and Github repositories. The CTO Adil Haizoune gave me an UI that I had to code from scratch using flexbox which I learnt that day, also learnt about Gulp &amp;#x26; Yeoman thanks to Reda. Med Bouasria helped me explaining to me Vue js components then I started working on the node web app. there was some issues on the workflow, but the CEO along with the CTO managed to solve them to avoid such issues in future projects.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/workspace-2c066faad4276345eacd93956295025f-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlZNh0KI//8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERIh/9oACAEBAAEFAlrNRl6pGGMLd//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAAQESFB/9oACAEBAAY/AscFL//EABwQAAICAgMAAAAAAAAAAAAAAAERACEQkVFhcf/aAAgBAQABPyFjbwjwNzpQBo9uIRrgf//aAAwDAQACAAMAAAAQkP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBgaH/2gAIAQEAAT8QDCoLMV7F2abiWaafKQ8tUpcJqJR75Y9q+BP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Old HF offices&quot;
+        title=&quot;&quot;
+        src=&quot;/static/workspace-2c066faad4276345eacd93956295025f-5025c.jpeg&quot;
+        srcset=&quot;/static/workspace-2c066faad4276345eacd93956295025f-097a5.jpeg 270w,
+/static/workspace-2c066faad4276345eacd93956295025f-d02ea.jpeg 540w,
+/static/workspace-2c066faad4276345eacd93956295025f-5025c.jpeg 1080w,
+/static/workspace-2c066faad4276345eacd93956295025f-66465.jpeg 1620w,
+/static/workspace-2c066faad4276345eacd93956295025f-7862b.jpeg 2160w,
+/static/workspace-2c066faad4276345eacd93956295025f-711c0.jpeg 3240w,
+/static/workspace-2c066faad4276345eacd93956295025f-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The day before my internship ended, Adil Haizoune invited me to join them as a full time front end developer which made really happy because finally I can prove to my parents and the people I know that you can actually get a job without a degree, second thing is that everyone there get the same salary no matter what degree you do have.&lt;/p&gt;
+&lt;p&gt;During the last day, I spent most of it preparing a nice UI kit along with a 960 grid system for Ahmed — a new intern — who joined us too, I explained everything he needed while I’ll be absent for a week to pack my stuff from home and get them to this city I’ll be living in.&lt;/p&gt;
+&lt;p&gt;In a nutshell, &lt;strong&gt;I’ve never thought this would happen someday but it did happen, getting a full time job offer as a front end developer without any degree but for being self taught.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Days after I started working with the folks at HF, I resigned due to the low salary I got offered knowing that I get paid more than that working as a free lancer and that is the difference between getting paid per project/work and getting paid per hour.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HPS Hackathon]]></title><description><![CDATA[After winning the second prize at the Lydec Hackathon organized by Screendy. I got invited to join the student partner program of Screendy…]]></description><guid isPermaLink="false">HPS Hackathon</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Mon, 10 Apr 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;After winning the second prize at the Lydec Hackathon organized by Screendy.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/team-d83e313e76fba751d22391697cbba48d-0f319.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABZ56JoyQZ1//EAB0QAQABAwUAAAAAAAAAAAAAAAIDAAESBBETFCH/2gAIAQEAAQUCeoRrtXNRyZBrkO3hnwP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AdLh/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHKpf/EABoQAAIDAQEAAAAAAAAAAAAAAAABAhEhUTH/2gAIAQEABj8CV0LE8sUukM8RQo8P/8QAGhABAQEAAwEAAAAAAAAAAAAAAREAITFB4f/aAAgBAQABPyFEDkWmuBYPjU7xc4pKZTTzrCh4nW//2gAMAwEAAgADAAAAECM//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EEDiwl//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EBpoSTy//8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBUaGx/9oACAEBAAE/EFegrSGznNYvd/Rc48oU8h7oRelXyB1KGA7qoRlIYuP2f//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Team&quot;
+        title=&quot;&quot;
+        src=&quot;/static/team-d83e313e76fba751d22391697cbba48d-5025c.jpeg&quot;
+        srcset=&quot;/static/team-d83e313e76fba751d22391697cbba48d-097a5.jpeg 270w,
+/static/team-d83e313e76fba751d22391697cbba48d-d02ea.jpeg 540w,
+/static/team-d83e313e76fba751d22391697cbba48d-5025c.jpeg 1080w,
+/static/team-d83e313e76fba751d22391697cbba48d-0f319.jpeg 1600w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/prize-ce15b322cf326265d77ecff1228fa5e3-6f400.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABTzronJzD/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAwQhEf/aAAgBAQABBQJNAZfSAbzM8Xsv5Z//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oACAECAQE/AWY//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEREiFBUWH/2gAIAQEABj8CpgcLAujL7Gkf/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBof/aAAgBAQABPyGgb9y1mLY7aMDZMi9wlrseW2ns4wGif//aAAwDAQACAAMAAAAQ1/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EG4Wf//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxChH//EABsQAQEAAwEBAQAAAAAAAAAAAAERACExYUFR/9oACAEBAAE/EDQr3p6c+Y6CsrdW9cMBQucXFLNEL5jTUHT80wAPnDgXP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Me holding the prize&quot;
+        title=&quot;&quot;
+        src=&quot;/static/prize-ce15b322cf326265d77ecff1228fa5e3-5025c.jpeg&quot;
+        srcset=&quot;/static/prize-ce15b322cf326265d77ecff1228fa5e3-097a5.jpeg 270w,
+/static/prize-ce15b322cf326265d77ecff1228fa5e3-d02ea.jpeg 540w,
+/static/prize-ce15b322cf326265d77ecff1228fa5e3-5025c.jpeg 1080w,
+/static/prize-ce15b322cf326265d77ecff1228fa5e3-6f400.jpeg 1280w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I got invited to join the student partner program of Screendy — thanks to Mehdi Alaoui (the Founder &amp;#x26; CEO of Screendy) — to help the participants during the international HPS hackathon hosted in Marrakesh. Two of my friends who live in my hometown got an invite to participate too, so we took the road to Marrakesh, we arrived after 12 hours of travel lol, we took some pictures of some great places there.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/marrakech-584c4a23561d08501cc3c8133a3423c6-e70b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMCBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAazpxHM2l9plqAf/xAAcEAABBAMBAAAAAAAAAAAAAAABAAIDEBEhMUH/2gAIAQEAAQUC4ZTlxbubVgVgLwcX/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BCP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8Bdw//xAAdEAABAwUBAAAAAAAAAAAAAAABAAIQESAxQWFx/9oACAEBAAY/Am9KoNQ1HyM3f//EABsQAAICAwEAAAAAAAAAAAAAAAABESExQVFh/9oACAEBAAE/IW4qQL1xmHV0eG2JkcmHqz2MSLWGf//aAAwDAQACAAMAAAAQP9oC/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBQf/aAAgBAwEBPxDsi6uv/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREEH/2gAIAQIBAT8QfmREH//EAB0QAQACAwEAAwAAAAAAAAAAAAEAIRExQXFhkcH/2gAIAQEAAT8QTOlT5HrDV69fyEygTHgQVb5KWQ4U/Mdjt3EjkrxgFSDBiXW/qFg2RotlgMz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Koutoubia Marrakech&quot;
+        title=&quot;&quot;
+        src=&quot;/static/marrakech-584c4a23561d08501cc3c8133a3423c6-5025c.jpeg&quot;
+        srcset=&quot;/static/marrakech-584c4a23561d08501cc3c8133a3423c6-097a5.jpeg 270w,
+/static/marrakech-584c4a23561d08501cc3c8133a3423c6-d02ea.jpeg 540w,
+/static/marrakech-584c4a23561d08501cc3c8133a3423c6-5025c.jpeg 1080w,
+/static/marrakech-584c4a23561d08501cc3c8133a3423c6-66465.jpeg 1620w,
+/static/marrakech-584c4a23561d08501cc3c8133a3423c6-7862b.jpeg 2160w,
+/static/marrakech-584c4a23561d08501cc3c8133a3423c6-e70b7.jpeg 3024w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We waited for others at the train station, we then got transferred to the Palmeraie resorts Hotel. I met again the SSP team who were really amazing &amp;#x26; nice to me, we prepared everything (badges, shirts….) to welcome 80 participants from 20 countries, 20 HPS clients &amp;#x26; partners, 30 HPS employees, After we collected more than 40 ideas from the participants, we chose 15 ideas which were interesting and the ideas’ holders made their teams of 4 to 5 members (Designer, Developer, Entrepreneur, Marketer &amp;#x26; a HPS employee) then the hackathon started which ended after 48 hours, thanks to HPS for offering to the SSP team 3 nights at the Wazo Hotel which was really good.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/code-4a5e69a981d529971dd94a72f96ad3f6-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABZLswvQ4K/8QAGhABAAIDAQAAAAAAAAAAAAAAAQATAxEhEv/aAAgBAQABBQK/WTno4VjNg1E//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bh//EABoQAAICAwAAAAAAAAAAAAAAAAABAhIxQZH/2gAIAQEABj8CcajEbKx6ZP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/IUs2rxlpjhbjBfIt1t7HZ17UwNz/2gAMAwEAAgADAAAAECQv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EARsv//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/EHSzpUf/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFhUXGx/9oACAEBAAE/EH/bRyVQ2zYpI7LiEKcmJkFOX3zHWdVjPoOIJYCAUHU//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Code anytime &amp; anywhere&quot;
+        title=&quot;&quot;
+        src=&quot;/static/code-4a5e69a981d529971dd94a72f96ad3f6-5025c.jpeg&quot;
+        srcset=&quot;/static/code-4a5e69a981d529971dd94a72f96ad3f6-097a5.jpeg 270w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-d02ea.jpeg 540w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-5025c.jpeg 1080w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-66465.jpeg 1620w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-7862b.jpeg 2160w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-711c0.jpeg 3240w,
+/static/code-4a5e69a981d529971dd94a72f96ad3f6-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/view-1457cb2e0fdc60fd8df5b94783c62f53-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB5FMumEnT/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECAxETISL/2gAIAQEAAQUCVevjrieDcJTTG+//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIh/9oACAECAQE/AdS//8QAGxAAAgEFAAAAAAAAAAAAAAAAABARAiEiMeH/2gAIAQEABj8CtUZTJxaX/8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFBYXH/2gAIAQEAAT8hOoIjBekXjeIGt13HBbY2xY//2gAMAwEAAgADAAAAENjf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EBxj/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIVH/2gAIAQIBAT8QbaiWn//EABsQAQEAAwADAAAAAAAAAAAAAAERACExQVGR/9oACAEBAAE/EG6E4dX5lWCWBwUJgmqr7zVUrI65TQAPTWOS+c//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Nice view from the hotel room&quot;
+        title=&quot;&quot;
+        src=&quot;/static/view-1457cb2e0fdc60fd8df5b94783c62f53-5025c.jpeg&quot;
+        srcset=&quot;/static/view-1457cb2e0fdc60fd8df5b94783c62f53-097a5.jpeg 270w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-d02ea.jpeg 540w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-5025c.jpeg 1080w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-66465.jpeg 1620w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-7862b.jpeg 2160w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-711c0.jpeg 3240w,
+/static/view-1457cb2e0fdc60fd8df5b94783c62f53-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I helped more than 2 teams on the Design part &amp;#x26; on explaining to them how to use the Screendy Platform &amp;#x26; I explained to my friends’ team that it’s all about the pitch &amp;#x26; to clarify the idea to the jury is the most important part, 48 hours ended and it was time to pitch in public, the decision was made that night but privately and everyone was sent to the Wazo Hotel to have some rest until the day after on the morning when the Powercard users meeting has started is when the winners were announced &amp;#x26; got their prizes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First prize : 10 000$ won by Pic &amp;#x26; Pay (the bixby feature on the samsung s8)&lt;/li&gt;
+&lt;li&gt;Second prize : 5000$ won by Fill me Up (the team I helped, providing gas stations with best prices on the map)&lt;/li&gt;
+&lt;li&gt;Third prize : 3000$ won by Mybills (pay your bills instantly with one click)&lt;/li&gt;
+&lt;li&gt;Fourth prize : 1000$ won by EPS (my friends’ team, the Iris recognizer to confirm payment)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHLcwZmGT//xAAaEAEBAAIDAAAAAAAAAAAAAAACAwABEhMh/9oACAEBAAEFAurOHk4boW6nVUzhuif/xAAXEQADAQAAAAAAAAAAAAAAAAAAEiEx/9oACAEDAQE/AUukP//EABoRAAICAwAAAAAAAAAAAAAAAAARAQISEyH/2gAIAQIBAT8BzdUidj4f/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERIQIx/9oACAEBAAY/As4RvhbDYLVvN8ElD//EABoQAAMAAwEAAAAAAAAAAAAAAAABETFRYYH/2gAIAQEAAT8hcPELqIydN52iy4itLS9BMULh/9oADAMBAAIAAwAAABCbD//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDRtUT/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAIAQIBAT8QRGLJcGqJv//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExQVFhgdH/2gAIAQEAAT8QHYK0oc+8iZigQ8fGACAoBTZ5wEAFiF3L7yW+7zI53AwTht+5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;A logo I designed for that team&quot;
+        title=&quot;&quot;
+        src=&quot;/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-5025c.jpeg&quot;
+        srcset=&quot;/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-097a5.jpeg 270w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-d02ea.jpeg 540w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-5025c.jpeg 1080w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-66465.jpeg 1620w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-7862b.jpeg 2160w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-711c0.jpeg 3240w,
+/static/fillme-9c80405c5952c266bb9adceb70f1e4e9-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/awards-c381cb994d066ba491682cf36d0ac2e0-607e3.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGeZT4YzBZ//8QAGRABAAMBAQAAAAAAAAAAAAAAAgEDEQAQ/9oACAEBAAEFAiK5hE7nVLHYY8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAGhAAAQUBAAAAAAAAAAAAAAAAAgABEBEhcf/aAAgBAQAGPwK3JYWchlY5H//EABkQAAIDAQAAAAAAAAAAAAAAAAERACExEP/aAAgBAQABPyF1AYsOGEK2ahtHJZDHcO8//9oADAMBAAIAAwAAABAA3//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EIf/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAgEBPxB21kH/xAAdEAEBAAIBBQAAAAAAAAAAAAABEQAhMUFRYXGB/9oACAEBAAE/EA6bVC375MX0ndinsxhgkurqnfIgaOVcKXqQcOIjHpn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Announcing the winners&quot;
+        title=&quot;&quot;
+        src=&quot;/static/awards-c381cb994d066ba491682cf36d0ac2e0-5025c.jpeg&quot;
+        srcset=&quot;/static/awards-c381cb994d066ba491682cf36d0ac2e0-097a5.jpeg 270w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-d02ea.jpeg 540w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-5025c.jpeg 1080w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-66465.jpeg 1620w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-7862b.jpeg 2160w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-711c0.jpeg 3240w,
+/static/awards-c381cb994d066ba491682cf36d0ac2e0-607e3.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;div class=&quot;responsive-video&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/AJQziXnUreI&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/div&gt;
+&lt;p&gt;In a nutshell, that was the best hackathon so far powered by Screendy in Morocco, here’s a video that shares more details:&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How I learned Design & Dev in a year & half]]></title><description><![CDATA[I started Learning Design 1st: I learned Adobe Illustrator & Photoshop —Then Adobe XD later on— easily since I was playing with Adobe After…]]></description><guid isPermaLink="false">How I learned Design &amp; Dev in a year &amp; half</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Fri, 10 Mar 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;I started Learning Design 1st:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I learned Adobe Illustrator &amp;#x26; Photoshop —Then Adobe XD later on— easily since I was playing with Adobe After effects when I was a little boy.&lt;/li&gt;
+&lt;li&gt;I started practicing by Designing stuff for myself like, logos / User interfaces / business cards / social media banners / illustrations &amp;#x26; editing pictures…&lt;/li&gt;
+&lt;li&gt;Some of my friends suggested to me to create a Behance portfolio &amp;#x26; start publishing my works there, I did so &amp;#x26; once I made a twitter account I started sharing my works there as well, I started getting clients from all over the world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then I started learning web development, of course I started with front end development:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I learned the basics of html/css/js &amp;#x26; Made an unresponsive one page website, then a responsive website with my own grid system which based on floats &amp;#x26; widths.&lt;/li&gt;
+&lt;li&gt;Then I learned some js Libraries like Jquery and then in 2017 I learned angular 4 but switched to the React eco-system.&lt;/li&gt;
+&lt;li&gt;I learned some Front end frameworks as well like Bootstrap, Materialize, Bulma, Lostgrid and I later made my own little css framework called &lt;a href=&quot;https://unnamed.smakosh.com&quot;&gt;Unnamed&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I learned Sass, Pug (named Jade in the past) &amp;#x26; ES6 as well.&lt;/li&gt;
+&lt;li&gt;I launched several versions of my personal website using different tech stacks &amp;#x26; different looks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-070e6.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABmMcoOeY2Mwmp+k28KjH/xAAbEAADAAMBAQAAAAAAAAAAAAABAgMABBEQMf/aAAgBAQABBQISXg1wFGopChSJUHGsMm3AlVx2UlPvn//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhExUf/aAAgBAwEBPwGTS0uA10pH/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEBJh/9oACAECAQE/AVw1MVf/xAAdEAACAgEFAAAAAAAAAAAAAAAAAQIhEhAgIjFh/9oACAEBAAY/ArkZSYnl34Ki1rcTjs//xAAbEAEBAQADAQEAAAAAAAAAAAABABEhMUGBYf/aAAgBAQABPyHlPGwoD6xMKcifkyCdHi2mD1YmlnD7kIdZns3B5HcX/9oADAMBAAIAAwAAABCUIAH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhMVH/2gAIAQMBAT8QWbgmamU9EuI//8QAGREAAwADAAAAAAAAAAAAAAAAAAERMWHw/9oACAECAQE/EHaxp1EaFZ//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhMVFBcZH/2gAIAQEAAT8QE+4Ah5CGD7UouGXqwxT9gzRU3lsxDcCmGk1AiUNKOscKUFXANiirY1Hu4bYIjlsm77NJ/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;One of the designs&quot;
+        title=&quot;&quot;
+        src=&quot;/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-5025c.jpeg&quot;
+        srcset=&quot;/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-097a5.jpeg 270w,
+/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-d02ea.jpeg 540w,
+/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-5025c.jpeg 1080w,
+/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-66465.jpeg 1620w,
+/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-7862b.jpeg 2160w,
+/static/look1-a3e3c09e6c300da7d826051fcfb45ad8-070e6.jpeg 3096w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I started getting some clients but unfortunately asking for a CMS templates from scratch which is really hard to do as one single developer, anyway I took the challenge and Designed the UI, coded it &amp;#x26; then converted it to a wordpress template, sadly I used plugins all over to let the client be able to edit stuff easily which made the website really slow, &lt;a href=&quot;http://singaporeview.com&quot;&gt;http://singaporeview.com&lt;/a&gt; he then paid me more to remove my copyrights but still you can find my name on the style page :D &lt;a href=&quot;http://singaporeview.com/wp-content/themes/kgs/style.css&quot;&gt;http://singaporeview.com/wp-content/themes/kgs/style.css&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/wp-199cc8023f64831375d1ce3db5607ee6-187b7.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFqS7NhI0P/xAAZEAACAwEAAAAAAAAAAAAAAAACEQADECT/2gAIAQEAAQUCTC8YoB89hPP/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEn/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BSf/EABgQAAIDAAAAAAAAAAAAAAAAAAEQAmFx/9oACAEBAAY/AgacMf8A/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITFRcf/aAAgBAQABPyGHeRiE8HYvPBPHp//aAAwDAQACAAMAAAAQt9//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBT/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/ELMf/8QAGhABAQEAAwEAAAAAAAAAAAAAAQAhEUFRkf/aAAgBAQABPxDgBXqPSz42IUo1cPxkrz1f/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;wordpress sucks&quot;
+        title=&quot;When one of your clients removes ur name on the copyrights on the footer &amp; forgets to remove it on the style page 😂😂😂&quot;
+        src=&quot;/static/wp-199cc8023f64831375d1ce3db5607ee6-5025c.jpeg&quot;
+        srcset=&quot;/static/wp-199cc8023f64831375d1ce3db5607ee6-097a5.jpeg 270w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-d02ea.jpeg 540w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-5025c.jpeg 1080w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-66465.jpeg 1620w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-7862b.jpeg 2160w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-711c0.jpeg 3240w,
+/static/wp-199cc8023f64831375d1ce3db5607ee6-187b7.jpeg 4128w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I also made other Wordpress website using premium templates.&lt;/p&gt;
+&lt;p&gt;I wanted to get into mobile dev too but I had no idea how to make a mobile app, so after a little research I found out that there is a software called Build Box that lets you make mobile games without any programming skills, you only need to design all the stuff &amp;#x26; the drag n drop will do the work and your app is done, which was the tool I used to make &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.smakosh.atchit&quot;&gt;Catch it 1.0&lt;/a&gt; &lt;a href=&quot;https://www.behance.net/gallery/38505463/Catch-it-10-My-first-android-mobile-game&quot;&gt;https://www.behance.net/gallery/38505463/Catch-it-10-My-first-android-mobile-game&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/catchit-f7836c7982bdebb0a890b9fd31e2443d-30228.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGt6q4aaK//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADBBL/2gAIAQEAAQUC0gkgsxmuprIobmf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBQEBAAAAAAAAAAAAAAABABAREiECgf/aAAgBAQAGPwIVMeoSGFQuBmN//8QAHBAAAgICAwAAAAAAAAAAAAAAAREAIRAxQVFh/9oACAEBAAE/IVWmLtIcjocDT7xX4r2BVChvH//aAAwDAQACAAMAAAAQzM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qh//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUYFBYaH/2gAIAQEAAT8QvtssQ3d53k+xVtiqX2HjOO3iBiBMEo2DcBZQLnwBiu9yp//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Catch it 1.0&quot;
+        title=&quot;&quot;
+        src=&quot;/static/catchit-f7836c7982bdebb0a890b9fd31e2443d-30228.jpeg&quot;
+        srcset=&quot;/static/catchit-f7836c7982bdebb0a890b9fd31e2443d-b283b.jpeg 270w,
+/static/catchit-f7836c7982bdebb0a890b9fd31e2443d-d5876.jpeg 540w,
+/static/catchit-f7836c7982bdebb0a890b9fd31e2443d-30228.jpeg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I wanted to get into the native dev world but I was too lazy to learn Java or Swift so I played with the Ionic framework which isn’t native but hybrid but I wanted to get my hands dirty and I made a little portfolio app which I’m planning to delete soon.&lt;/p&gt;
+&lt;p&gt;1 Year has passed and I decided that to get into back-end dev as well, It was so hard to choose between php or nodejs (which is simply server side javascript) &amp;#x26; at the end I went with php and MySQL due to the decision of my dad —who didn’t let me drop out from university at that time— because it was in the program (php/mysql).&lt;/p&gt;
+&lt;p&gt;So I started learning it by practicing once I understood the core language (variables, loops, statements…) then I started making some web apps like a forum, &lt;a href=&quot;https://github.com/smakosh/Smartshop&quot;&gt;E-commerce&lt;/a&gt;, an &lt;a href=&quot;https://github.com/smakosh/image-resizer&quot;&gt;image resizer&lt;/a&gt; etc…&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/smartshop-87d52f1e320966c42bed414f9f3a1477-30228.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHWgkHOK//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwAREhQz/9oACAEBAAEFAus2kUJlPSdVYunKzgA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECIXEDEkH/2gAIAQEABj8Cptl8jeslp09RPSj/xAAcEAADAAEFAAAAAAAAAAAAAAAAAREhMUFRcaH/2gAIAQEAAT8hcGkcIcuruHpDClirgqMSyJfvB//aAAwDAQACAAMAAAAQ2A//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCn/8QAHBABAQACAwEBAAAAAAAAAAAAAREAMSFBkWHR/9oACAEBAAE/ECrQDZnX6+YAO+AUH4dYxYaM075cC7fomjXuW1C4ZuOW1QJURus//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;smartshop&quot;
+        title=&quot;&quot;
+        src=&quot;/static/smartshop-87d52f1e320966c42bed414f9f3a1477-30228.jpeg&quot;
+        srcset=&quot;/static/smartshop-87d52f1e320966c42bed414f9f3a1477-b283b.jpeg 270w,
+/static/smartshop-87d52f1e320966c42bed414f9f3a1477-d5876.jpeg 540w,
+/static/smartshop-87d52f1e320966c42bed414f9f3a1477-30228.jpeg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;While learning back-end dev, I made some works too like this &lt;a href=&quot;https://luca-steeb.com&quot;&gt;responsive website&lt;/a&gt; for my friend Luca Steeb  &amp;#x26; it was my first time using Git, Github &amp;#x26; Ubuntu since the website’s back end uses Nodejs &amp;#x26; I learned some stuff about npm &amp;#x26; CLI commands :D&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/lucasteeb-8328a2dd44a8bfd1ae1433f327dffb95-30228.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcqyMkhgf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMyESP/2gAIAQEAAQUClbeja1E6tgAM/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERIRIyYf/aAAgBAQAGPwIWcvIMkQp2Rp//xAAaEAADAQEBAQAAAAAAAAAAAAABESEAQTFR/9oACAEBAAE/IYDPceoi+V1kSZa+bgBvoGtCJ6NSIvf/2gAMAwEAAgADAAAAEFsP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxUf/aAAgBAwEBPxByE7f/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EEO4f//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExgUFh/9oACAEBAAE/ELMppvMgl7gPDyIEpQErTyWlTwMHPYAGSSjKF+whCs/s/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;luca-steeb.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/lucasteeb-8328a2dd44a8bfd1ae1433f327dffb95-30228.jpg&quot;
+        srcset=&quot;/static/lucasteeb-8328a2dd44a8bfd1ae1433f327dffb95-b283b.jpg 270w,
+/static/lucasteeb-8328a2dd44a8bfd1ae1433f327dffb95-d5876.jpg 540w,
+/static/lucasteeb-8328a2dd44a8bfd1ae1433f327dffb95-30228.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;But late 2017, I started learning the MEAN stack and made some apps which are open sourced on my &lt;a href=&quot;https://github.com/smakosh&quot;&gt;Github account&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Currently —early 2018— I’m still learning so much stuff like Express, Mongoose, Gatsby, Neural networks, Python, Flask, Tensorflow, Keras…&lt;/p&gt;
+&lt;p&gt;I really want to thank the people on the internet who taught me these things and the folks who open source so many great products. Also thanks to the friends who helped me through my early learning career.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The purpose of education is to help you learn by yourself”&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Never work for free]]></title><description><![CDATA[It was the first time I work for free since it was my English teacher for whom I promised to make an entire dynamic website in which he…]]></description><guid isPermaLink="false">Never work for free</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Thu, 02 Mar 2017 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;It was the first time I work for free since it was my English teacher for whom I promised to make an entire dynamic website in which he would post his quotes -he thinks he invents them from scratch even though it is obvious that we cannot create something from nothing because we have no idea what nothing is to begin with- but who am I to judge what he does with his free time. &lt;/p&gt;
+&lt;p&gt;I started by making a simple logo for a short time using Adobe Illustrator (since everything was for free), I designed the wireframes on a piece of paper and then designed the UI using Adobe Photoshop which took quite some time. &lt;/p&gt;
+&lt;p&gt;This caused me to neglect revision for my exams &amp;#x26; other clients’ work. Whilst working on the project he kept hurrying me and pestering me if I finished making it yet -which really pissed me off because it felt like he was the boss of me-.Anyways, I ended up receiving bad marks on the exams, but I at least finished the static part of the website. &lt;/p&gt;
+&lt;p&gt;I used html5/SCSS, some JQUERY &amp;#x26; of course a framework called Materialize CSS which takes care of the responsive media queries, then I started preparing the database &amp;#x26; started coding the backend using PHP/MYSQL, I asked for some help from my friend Anas Mazouni to help me make the like button work, make a views counter and overall make the website more secure. &lt;/p&gt;
+&lt;p&gt;The teacher paid for the domain name &amp;#x26; the host, and I published it on my portfolio Behance: &lt;a href=&quot;https://www.behance.net/gallery/46963503/Quotes-of-Boss-web-app&quot;&gt;Here&lt;/a&gt; &amp;#x26; Instagram twice : &lt;a href=&quot;https://www.instagram.com/p/BO0f_O_AhC7&quot;&gt;First&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://www.instagram.com/p/BPIBhn5gn6h&quot;&gt;Second&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;He then asked me to add other things like social media accounts, PayPal &amp;#x26; Patreon accounts, Google Ads &amp;#x26; analytics, the Facebook comments box, and another page where his YouTube videos would be posted. I accepted and did as he asked. &lt;/p&gt;
+&lt;p&gt;A few weeks later he asked me to add a search bar, poems &amp;#x26; other pages for quotes &amp;#x26; poems in Arabic &amp;#x26; French, but this time I informed him that what he was asking for would cost him a lot –thousands of dollars kind of a lot-, but I was ready to do it for only 200$. Mr English teacher ends up refusing my ever so generous offer, blocked me from all Social Medias and asked another student to add everything for him for free. &lt;/p&gt;
+&lt;p&gt;The student –who was a classmate of mine- backstabbed me and claimed that I downloaded everything &amp;#x26; that I had never created anything on my own. The teacher later on came to me, insulted me &amp;#x26; started spreading lies and rumors about me.&lt;/p&gt;
+&lt;p&gt;To conclude, if you’re good at something, never do it in free.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/quotesof-35cbfd32d745437b78be3ef48ce54a6a-5025c.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHbZ6u9JEaEUFf/xAAcEAADAQACAwAAAAAAAAAAAAABAgMABBESEyH/2gAIAQEAAQUCxZRg2pFCy8ael14U+ZGPpkxZP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB4QAAICAgIDAAAAAAAAAAAAAAABESECMRJRImFx/9oACAEBAAY/AmK1ejUExm/hy8lHsptx2UZvoln/xAAbEAEBAQEBAQEBAAAAAAAAAAABEQAxIWFBUf/aAAgBAQABPyG+1O/3uiEFQXudG0GZ4rOq0zH2hxUCKeJhCqdeXchtTz5v3Tv/2gAMAwEAAgADAAAAECTIgP/EABcRAQADAAAAAAAAAAAAAAAAABABEUH/2gAIAQMBAT8QqDD/xAAXEQEAAwAAAAAAAAAAAAAAAAAQASFB/9oACAECAQE/EKI0/8QAHBABAQEAAwEBAQAAAAAAAAAAAREAITFBUWGB/9oACAEBAAE/EK5AkAjh96ztIgJX5rIoIcLlVKh981YYlDpTuGIxUtRPM1ILRHL+jueIkgkldBiqDXhPDf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;quotes UI&quot;
+        title=&quot;&quot;
+        src=&quot;/static/quotesof-35cbfd32d745437b78be3ef48ce54a6a-5025c.jpeg&quot;
+        srcset=&quot;/static/quotesof-35cbfd32d745437b78be3ef48ce54a6a-097a5.jpeg 270w,
+/static/quotesof-35cbfd32d745437b78be3ef48ce54a6a-d02ea.jpeg 540w,
+/static/quotesof-35cbfd32d745437b78be3ef48ce54a6a-5025c.jpeg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-6f400.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAUrpzBZhhlf/xAAZEAADAAMAAAAAAAAAAAAAAAAAAQMCESH/2gAIAQEAAQUCUeZT0aHwrQWDa//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGMr//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAgBAgEBPwFLRf/EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAAMBAQAAAAAAAAAAAAAAAAABERBR/9oACAEBAAE/IeAmuGSY0lSP/9oADAMBAAIAAwAAABAP/wD/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QKq//xAAYEQACAwAAAAAAAAAAAAAAAAAAARExUf/aAAgBAgEBPxCKh7n/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhQWH/2gAIAQEAAT8QINlSFeAmYnaYV1xw9hbf42z/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;quotes php code&quot;
+        title=&quot;Yep that’s the database table name, go ahead and shut it down if you’d like :D&quot;
+        src=&quot;/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-5025c.jpeg&quot;
+        srcset=&quot;/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-097a5.jpeg 270w,
+/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-d02ea.jpeg 540w,
+/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-5025c.jpeg 1080w,
+/static/quotescode-5f8fcad0665304ec1ac29d1d34f775d3-6f400.jpeg 1280w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[About me so far...]]></title><description><![CDATA[I’m Ismail Ghallou also known as Smakosh, a nickname which was given to me since I was 8 years old by my friend’s dad, many told me that I…]]></description><guid isPermaLink="false">About me so far...</guid><dc:creator><![CDATA[Sterling Baldwin]]></dc:creator><pubDate>Fri, 02 Dec 2016 16:45:01 GMT</pubDate><content:encoded>&lt;p&gt;I’m Ismail Ghallou also known as Smakosh, a nickname which was given to me since I was 8 years old by my friend’s dad, many told me that I was a good student when I was at primary school &amp;#x26; thanks to video games and to my dad for buying our first pc ever &amp;#x26; also some anime I was watching at that time, then I decided to get into a public schools rather than a private school on the last year of primary school, at that time I got addicted to Basketball though I was a good player, specially in the streets(and1), here’s a picture of some medals I got from some tournaments I &amp;#x26; my friends won on Football &amp;#x26; Basketball.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/medals-b49e3ba3b1f87e30a80445459392fb02-5025c.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAefWK5XMJ//EABoQAAICAwAAAAAAAAAAAAAAAAARAQIQEiL/2gAIAQEAAQUClSKuN+Ghn//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/Aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAECEREjH/2gAIAQEABj8CpFpgvF//xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMUFx/9oACAEBAAE/IWeUrDejsZdwPYOBpqf/2gAMAwEAAgADAAAAEA//AP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAIAQMBAT8QOmwv/8QAFhEBAQEAAAAAAAAAAAAAAAAAACEx/9oACAECAQE/EMV//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIVExwf/aAAgBAQABPxDQD2jGK1KpXDBtCp3Ikgqx+pUGn4S4WsSzJ//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;medals&quot;
+        title=&quot;Follow me on Instagram to see more : https://www.instagram.com/smakosh19&quot;
+        src=&quot;/static/medals-b49e3ba3b1f87e30a80445459392fb02-5025c.jpeg&quot;
+        srcset=&quot;/static/medals-b49e3ba3b1f87e30a80445459392fb02-097a5.jpeg 270w,
+/static/medals-b49e3ba3b1f87e30a80445459392fb02-d02ea.jpeg 540w,
+/static/medals-b49e3ba3b1f87e30a80445459392fb02-5025c.jpeg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;During secondary school I started exploring more hobbies like drawing, graffiti, biking &amp;#x26; skateboarding and I was still getting good marks though, at high school I got addicted to Parkour &amp;#x26; Free running and it was really a good experience “to not be able to do a backflip then after a long period of training (even though there were no gyms) to actually do it ” it was something really amazing, I spent like 2 years practicing and have recorded some videos right &lt;a href=&quot;https://www.instagram.com/smakosh19&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;div class=&quot;responsive-video&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/bujbKsEKZ-4&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/div&gt;
+&lt;p&gt;During the last year of high school I got a gaming pc which my dad bought for me since I asked a lot for it, specially for gaming &amp;#x26; it made me get addicted to gaming and so I graduated from high school with bad marks but yeah I got accepted in some sort of school which is equivalent to university &amp;#x26; at that moment everything has changed, I started teaching myself at home, learning, practicing by doing side projects &amp;#x26; working as a free lancer from november 2015 until now, I taught myself Graphic, UI/UX design, programming &amp;#x26; web development (front end &amp;#x26; back end), restudied maths — algebra linear, calculus, probabilities… — &amp;#x26; now i’m still learning specially about machine &amp;#x26; deep learning specially neural networks &amp;#x26; willing to create some web &amp;#x26; mobile apps based on Artificial intelligence to help people.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/setup-bd72794c24650c8815b660924baaf96f-6d09e.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 1080px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAE3PWiiLC//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIRAyH/2gAIAQEAAQUCTJ6aXSdddPURGr//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAEAERITH/2gAIAQEABj8CXVhcn//EABkQAAMBAQEAAAAAAAAAAAAAAAABESExcf/aAAgBAQABPyEEIvKYZcwZJH0qL0Mua2f/2gAMAwEAAgADAAAAEFTv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qh//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ECf/xAAbEAACAgMBAAAAAAAAAAAAAAABEQAxIUFRof/aAAgBAQABPxAQZ5EwCHYR7yHR3DG4gkRZjInUUY0auf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;my setup&quot;
+        title=&quot;My Setup&quot;
+        src=&quot;/static/setup-bd72794c24650c8815b660924baaf96f-5025c.jpeg&quot;
+        srcset=&quot;/static/setup-bd72794c24650c8815b660924baaf96f-097a5.jpeg 270w,
+/static/setup-bd72794c24650c8815b660924baaf96f-d02ea.jpeg 540w,
+/static/setup-bd72794c24650c8815b660924baaf96f-5025c.jpeg 1080w,
+/static/setup-bd72794c24650c8815b660924baaf96f-66465.jpeg 1620w,
+/static/setup-bd72794c24650c8815b660924baaf96f-7862b.jpeg 2160w,
+/static/setup-bd72794c24650c8815b660924baaf96f-6d09e.jpeg 2592w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I actually &lt;a href=&quot;/never-work-for-free&quot;&gt;Got a job offer&lt;/a&gt; at a start up after completing one month paid internship which I declined since I graduated and willing to pursue my studies, I declined to too many other offers later on. I’m more interested in launching a start up!&lt;/p&gt;
+&lt;p&gt;you can view all my works on my website &lt;a href=&quot;http://smakosh.com&quot;&gt;http://smakosh.com&lt;/a&gt; &amp;#x26; more down bellow :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behance: &lt;a href=&quot;https://www.behance.net/ismail16sm9991&quot;&gt;https://www.behance.net/ismail16sm9991&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&quot;https://github.com/smakosh&quot;&gt;https://github.com/smakosh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram: &lt;a href=&quot;https://www.instagram.com/smakosh19&quot;&gt;https://www.instagram.com/smakosh19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/smakosh&quot;&gt;https://twitter.com/smakosh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook: &lt;a href=&quot;https://www.facebook.com/Ismailghallou&quot;&gt;https://www.facebook.com/Ismailghallou&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Youtube: &lt;a href=&quot;https://www.youtube.com/user/smakoshthegamer&quot;&gt;https://www.youtube.com/user/smakoshthegamer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dribbble: &lt;a href=&quot;https://dribbble.com/smakosh&quot;&gt;https://dribbble.com/smakosh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/in/ismail-ghallou-630149122&quot;&gt;https://www.linkedin.com/in/ismail-ghallou-630149122&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codepen: &lt;a href=&quot;https://codepen.io/Smakosh&quot;&gt;https://codepen.io/Smakosh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Creative market: &lt;a href=&quot;https://creativemarket.com/Smakosh&quot;&gt;https://creativemarket.com/Smakosh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And if you want to support me on Patreon, That would be helpful to my hosting :D &lt;a href=&quot;https://www.patreon.com/smakosh&quot;&gt;https://www.patreon.com/smakosh&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
