@@ -23,7 +23,7 @@ const Intro = () => (
 							Primarily majority investments
 							Sellers reinvest alongside Caruth Capital
 							Caruth Capital Investment Strategy:
-Proven Model of Success: Driving Business Transformation
+									<h6>Proven Model of Success: Driving Business Transformation</h6>
 							Identify solid companies with defensible business models
 									Recurring or maintenance driven revenue
 									High value proposition leading to solid profit margins
