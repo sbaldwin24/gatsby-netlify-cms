@@ -1,24 +1,24 @@
 .more {
-    color: #fff;
-    text-decoration: none;
-    border-radius: .2rem;
-    width: 70%;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 2.5rem;
+	align-items: center;
+	border-radius: .2rem;
+	color: #fff;
+	display: flex;
+	height: 2.5rem;
+	justify-content: center;
+	margin: 0 auto;
+	text-decoration: none;
+	width: 70%;
 
-    @media screen and (max-width: 1100px) {
-        padding: .6rem 1rem;
-    }
+	@media screen and (max-width: 1100px) {
+		padding: .6rem 1rem;
+	}
 
-    @media screen and (max-width: 680px) {
-        grid-row: 4;
-        padding: .6rem 1.4rem;
-    }
+	@media screen and (max-width: 680px) {
+		grid-row: 4;
+		padding: .6rem 1.4rem;
+	}
 
-    .mr2 {
-        margin: 0 1rem 0 0;
-    }
+	.mr2 {
+		margin: 0 1rem 0 0;
+	}
 }

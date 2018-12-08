@@ -5,7 +5,6 @@ const ataRiskLogo = './ata-risk-logo.png';
 const secureLLCLogo = './secure-logo-blue.jpeg';
 const premierOutDoorLogo = './premier-outdoor-logo-blue.png';
 
-
 const Details = () => (
 	<div>
 		<div className="primaryHorizontal-cardsWrapper">
@@ -16,7 +15,6 @@ const Details = () => (
 							<h2 className="header-title header-title--secondary">Maybe there's a happy little waterfall happening over here. We can fix anything.</h2>
 							<h5 className="header-subheading">Let's have a happy little tree in here. Just let your mind wander and enjoy. This should make you happy. Let's get crazy.</h5>
 							<hr className="u-marginBottomSmall" />
-
 						</div>
 					</div>
 				</div>

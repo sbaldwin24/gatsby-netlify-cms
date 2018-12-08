@@ -1,10 +1,13 @@
-import React, { Component } from 'react'
-import Recaptcha from 'react-google-recaptcha'
+import React, { Component } from 'react';
+import Recaptcha from 'react-google-recaptcha';
 import { navigateTo } from 'gatsby-link';
-import { SmallerContainer, CustomButton } from '../../common'
-import './style.scss'
+import { SmallerContainer, CustomButton } from '../../common';
+import './style.scss';
 
-const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY || '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
+/**
+ * need an API Key for g-captcha
+ */
+const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY || ''
 
 const encode = data => {
 	return Object.keys(data)
@@ -13,9 +16,9 @@ const encode = data => {
 }
 
 class ContactForm extends Component {
-    state = {}
+	state = {}
 
-    handleRecaptcha = value => this.setState({ 'g-recaptcha-response': value })
+	handleRecaptcha = value => this.setState({ 'g-recaptcha-response': value })
 
 	handleSubmit = e => {
 		e.preventDefault()
@@ -62,17 +65,17 @@ class ContactForm extends Component {
 						</noscript>
 						<p>
 							<label>
-							Your full name: <input type="text" name="name" value={name} onChange={this.handleChange} />
+								Your full name: <input type="text" name="name" value={name} onChange={this.handleChange} />
 							</label>
 						</p>
 						<p>
 							<label>
-							Your email: <input type="email" name="email" value={email} onChange={this.handleChange} />
+								Your email: <input type="email" name="email" value={email} onChange={this.handleChange} />
 							</label>
 						</p>
 						<p>
 							<label>
-							Message: <textarea name="message" value={message} onChange={this.handleChange} />
+								Message: <textarea name="message" value={message} onChange={this.handleChange} />
 							</label>
 						</p>
 						<Recaptcha
