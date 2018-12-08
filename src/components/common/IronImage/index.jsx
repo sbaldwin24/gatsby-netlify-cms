@@ -4,7 +4,6 @@ import './style.scss';
 const IMAGE_FADE_IN_CLASS = 'iron-image--fade-in';
 
 class IronImage extends Component {
-
 	constructor(props) {
 		super(props);
 
@@ -21,17 +20,21 @@ class IronImage extends Component {
 	}
 
 	render() {
+		const { placeholderStyle, imageLoadFinishedClass, imageStyle } = this.state;
+		const { alt, src } = this.props;
+		const { imageLoadHandler } = this;
+
 		return (
 			<div
 				className="iron-image__container"
-				style={this.state.placeholderStyle}
+				style={placeholderStyle}
 			>
 				<img
-					className={`iron-image ${this.state.imageLoadFinishedClass}`}
-					alt={this.props.alt}
-					src={this.props.src}
-					style={this.state.imageStyle}
-					onLoad={this.imageLoadHandler}
+					className={`iron-image ${imageLoadFinishedClass}`}
+					alt={alt}
+					src={src}
+					style={imageStyle}
+					onLoad={imageLoadHandler}
 				/>
 			</div>
 		);

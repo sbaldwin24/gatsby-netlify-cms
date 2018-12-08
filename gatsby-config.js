@@ -7,7 +7,7 @@ module.exports = {
 			site_url: 'https://nostalgic-morse-7a6322.netlify.com',
 			feed_url: `https://nostalgic-morse-7a6322.netlify.com/${config.siteRss}`,
 			title: 'Caruth Capital Partners | Hello world!',
-			description: 'A self-taught graphic, UI/UX designer & front end developer.',
+			description: 'Dallas, TX Venture Capital Firm',
 			image_url: 'https://nostalgic-morse-7a6322.netlify.com/static/favicon/logo-512.png',
 			author: config.siteRssAuthor,
 			copyright: `${config.copyright.label} © ${new Date().getFullYear()}`

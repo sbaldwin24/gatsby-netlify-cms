@@ -1,9 +1,9 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import Disqus from 'disqus-react'
-import { SmallerContainer, Head, SocialShare } from '../components/common'
-import './styles.scss'
-import './highlight.scss'
+import React from 'react';
+import Link from 'gatsby-link';
+import Disqus from 'disqus-react';
+import { SmallerContainer, Head, SocialShare } from '../components/common';
+import './styles.scss';
+import './highlight.scss';
 
 export default function Template({ data }) {
 	const { markdownRemark: post } = data
@@ -37,7 +37,7 @@ export default function Template({ data }) {
 					<SocialShare {...post.frontmatter} />
 					<div className="back">
 						<Link to={post.frontmatter.next}>
-                            Previous article
+							Previous article
 						</Link>
 					</div>
 					<div style={{ marginTop: '2rem' }}>

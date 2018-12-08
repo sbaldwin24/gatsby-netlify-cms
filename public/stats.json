@@ -9,32 +9,32 @@
       "path---build-your-perceptron-c60cbf6bd600eb82143c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-6360ae73b66669816586.js",
-      "component---src-pages-index-js-6360ae73b66669816586.js.map"
+      "component---src-pages-index-js-42041aab6cb629bea1bb.js",
+      "component---src-pages-index-js-42041aab6cb629bea1bb.js.map"
     ],
     "path---companies": [
       "path---companies-a0e39f21c11f6a62c5ab.js",
       "path---companies-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-60f6538d2c1c3c95c564.js",
-      "path---blog-60f6538d2c1c3c95c564.js.map"
+      "path---blog-f616cb73395b5466abd9.js",
+      "path---blog-f616cb73395b5466abd9.js.map"
     ],
     "path---hps-hackathon": [
-      "path---hps-hackathon-41e9dd740ba646f0426b.js",
-      "path---hps-hackathon-41e9dd740ba646f0426b.js.map"
+      "path---hps-hackathon-9e900a3e287a1f509a36.js",
+      "path---hps-hackathon-9e900a3e287a1f509a36.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-796cf419085fd3b3773e.js",
-      "component---src-pages-contact-js-796cf419085fd3b3773e.js.map"
+      "component---src-pages-contact-js-b1c0a05018db1bcacda4.js",
+      "component---src-pages-contact-js-b1c0a05018db1bcacda4.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-d81a3b62c2faf66a13e4.js",
-      "component---src-layouts-index-jsx-d81a3b62c2faf66a13e4.js.map"
+      "component---src-layouts-index-jsx-d32ea7614d5302af707f.js",
+      "component---src-layouts-index-jsx-d32ea7614d5302af707f.js.map"
     ],
     "path---never-work-for-free": [
       "path---never-work-for-free-fa26589a450bf67da6af.js",
@@ -48,25 +48,21 @@
       "path---the-tech-tools-i-use-7fa008091af0c53147a4.js",
       "path---the-tech-tools-i-use-7fa008091af0c53147a4.js.map"
     ],
+    "component---src-pages-team-js": [
+      "component---src-pages-team-js-c11f31322f9fce0bb633.js",
+      "component---src-pages-team-js-c11f31322f9fce0bb633.js.map"
+    ],
     "path---index": [
       "path---index-f7e4b5da5c120afd0b0b.js",
       "path---index-f7e4b5da5c120afd0b0b.js.map"
-    ],
-    "component---src-pages-founders-js": [
-      "component---src-pages-founders-js-72e242a7102d5789f5ff.js",
-      "component---src-pages-founders-js-72e242a7102d5789f5ff.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-5989a8b1cc7c51e0f83c.js",
       "component---src-pages-404-js-5989a8b1cc7c51e0f83c.js.map"
     ],
     "commons": [
-      "commons-7ca3d1018a23763a313b.js",
-      "commons-7ca3d1018a23763a313b.js.map"
-    ],
-    "path---founders": [
-      "path---founders-a0e39f21c11f6a62c5ab.js",
-      "path---founders-a0e39f21c11f6a62c5ab.js.map"
+      "commons-3134b9bd179f088b15ac.js",
+      "commons-3134b9bd179f088b15ac.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -79,6 +75,10 @@
     "component---src-templates-post-js": [
       "component---src-templates-post-js-f32128395fdcd6961ac8.js",
       "component---src-templates-post-js-f32128395fdcd6961ac8.js.map"
+    ],
+    "path---team": [
+      "path---team-a0e39f21c11f6a62c5ab.js",
+      "path---team-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -97,16 +97,16 @@
       "path---thanks-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about-me-so-far": [
-      "path---about-me-so-far-f55d6ab21a31ed45a925.js",
-      "path---about-me-so-far-f55d6ab21a31ed45a925.js.map"
+      "path---about-me-so-far-b3684347ec48a4c460f2.js",
+      "path---about-me-so-far-b3684347ec48a4c460f2.js.map"
     ],
     "app": [
-      "app-c126cf31c6052cfa3ddd.js",
-      "app-c126cf31c6052cfa3ddd.js.map"
+      "app-bc52d51f08709b8b2f35.js",
+      "app-bc52d51f08709b8b2f35.js.map"
     ],
     "path---istanbul-trip": [
-      "path---istanbul-trip-6466baabc721a08b7c46.js",
-      "path---istanbul-trip-6466baabc721a08b7c46.js.map"
+      "path---istanbul-trip-cc28773023282b008e1e.js",
+      "path---istanbul-trip-cc28773023282b008e1e.js.map"
     ],
     "path---unnamed": [
       "path---unnamed-d65bdd9f48357dc4bf05.js",
